@@ -1,0 +1,1032 @@
+[
+ {
+  "id": "hormuz-blockade-standoff-1",
+  "event": "hormuz-blockade-standoff",
+  "from": "gulf-of-oman",
+  "to": "bandar-abbas",
+  "type": "sanctions",
+  "label": "US naval blockade of Iranian ports",
+  "who": "The US Navy, against ships using Iranian ports",
+  "what": "The US says its blockade redirected 144 commercial vessels through October. CENTCOM says it disabled the cargo ship Huda on 7 November for trying to breach it.",
+  "when": "Since April 2026, reimposed July 2026, ongoing in November 2026",
+  "why": "Iran lists the blockade among the conditions it wants met before it reopens the strait.",
+  "sources": [
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+    "publisher": "CBS News",
+    "title": "Iran downplays new U.S. task force aimed at disrupting ground transport routes",
+    "published": "2026-11-08"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away",
+    "publisher": "Al Jazeera",
+    "title": "How does Iran view Trump sidelining Vance from talks?",
+    "published": "2026-11-14"
+   }
+  ]
+ },
+ {
+  "id": "hormuz-blockade-standoff-2",
+  "event": "hormuz-blockade-standoff",
+  "from": "tehran",
+  "to": "strait-of-hormuz",
+  "type": "military",
+  "label": "Iran restricts the Strait of Hormuz",
+  "who": "Iran's forces, against ships using the strait",
+  "what": "Iran's Guards and military say several tankers hit mines between 5 and 14 November; maritime officials have not confirmed it. UKMTO counted 145 conflict incidents from 28 February to late October, 88 in the strait.",
+  "when": "Since February 2026, most recently 5 to 14 November 2026",
+  "why": "It limits oil and gas shipping and gives Iran leverage in the talks.",
+  "sources": [
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+    "publisher": "CBS News",
+    "title": "Iran downplays new U.S. task force aimed at disrupting ground transport routes",
+    "published": "2026-11-08"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away",
+    "publisher": "Al Jazeera",
+    "title": "How does Iran view Trump sidelining Vance from talks?",
+    "published": "2026-11-14"
+   },
+   {
+    "url": "https://gcaptain.com/tanker-hit-by-limpet-mines-in-strait-of-hormuz-as-new-threat-to-shipping-emerges/",
+    "publisher": "gCaptain",
+    "title": "Tanker Hit by Limpet Mines in Strait of Hormuz as New Threat to Shipping Emerges",
+    "published": "2026-10-30"
+   }
+  ]
+ },
+ {
+  "id": "war-timeline-feb-to-nov-1",
+  "event": "war-timeline-feb-to-nov",
+  "from": "washington",
+  "to": "tehran",
+  "type": "military",
+  "label": "US-Israeli strikes begin war",
+  "who": "The US and Israel launched the opening attacks on Iran.",
+  "what": "Strikes began on 28 February 2026 while nuclear talks were under way. Al Jazeera reports Supreme Leader Ali Khamenei and other senior officials were killed. Iran fired missiles and drones back.",
+  "when": "28 February 2026",
+  "why": "It started the war and brought Iran's new leader, Mojtaba Khamenei, to power.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february",
+    "publisher": "Al Jazeera",
+    "title": "US-Iran war, then and now: How the landscape has changed since February",
+    "published": "2026-10-23"
+   },
+   {
+    "url": "https://www.al-monitor.com/originals/2026/02/iran-leader-khamenei-killed-massive-us-and-israeli-attack-trump-says",
+    "publisher": "Al-Monitor (AFP)",
+    "title": "Iran leader Khamenei killed in massive US and Israeli attack",
+    "published": "2026-02-28"
+   }
+  ]
+ },
+ {
+  "id": "war-timeline-feb-to-nov-2",
+  "event": "war-timeline-feb-to-nov",
+  "from": "tel-aviv",
+  "to": "tehran",
+  "type": "military",
+  "label": "Israeli strikes on Iran",
+  "who": "Israel, which launched the opening attacks together with the US",
+  "what": "Israel and the US attacked together from 28 February, AFP and Al Jazeera report. Iran fired back at Israel and US Gulf bases. In July, Al Jazeera said Israel had not openly joined renewed US attacks.",
+  "when": "From 28 February 2026",
+  "why": "Israeli leaders, including Netanyahu on 14 November, say Iran's nuclear programme is a threat that must be ended.",
+  "sources": [
+   {
+    "url": "https://www.al-monitor.com/originals/2026/02/iran-leader-khamenei-killed-massive-us-and-israeli-attack-trump-says",
+    "publisher": "Al-Monitor (AFP)",
+    "title": "Iran leader Khamenei killed in massive US and Israeli attack",
+    "published": "2026-02-28"
+   },
+   {
+    "url": "https://aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next",
+    "publisher": "Al Jazeera",
+    "title": "US-Iran ceasefire deal: What are the terms, and what's next?",
+    "published": "2026-04-08"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again",
+    "publisher": "Al Jazeera",
+    "title": "March to July: What's different as US-Iran fighting escalates again?",
+    "published": "2026-07-13"
+   },
+   {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+    "publisher": "CBS News",
+    "title": "Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "limited-strikes-gulf-bases-1",
+  "event": "limited-strikes-gulf-bases",
+  "from": "tehran",
+  "to": "manama",
+  "type": "military",
+  "label": "Iranian drones target US radar, Bahrain",
+  "who": "Iran's Revolutionary Guards, at a US radar site in Bahrain",
+  "what": "The Guards say they targeted a US radar on 13 November and sent six drones on 15 November. CENTCOM and Bahrain say the drones were shot down; no hit was confirmed.",
+  "when": "13 and 15 November 2026",
+  "why": "It targets a US military site in a Gulf state, not only ships or Iranian territory.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain",
+    "publisher": "Al Jazeera",
+    "title": "US denies Iran's claim it hit two radar sites in Bahrain",
+    "published": "2026-11-13"
+   },
+   {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+    "publisher": "CBS News",
+    "title": "Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "limited-strikes-gulf-bases-2",
+  "event": "limited-strikes-gulf-bases",
+  "from": "washington",
+  "to": "qeshm-island",
+  "type": "military",
+  "label": "US strikes on Qeshm Island",
+  "who": "US forces, against Iranian forces on Qeshm Island",
+  "what": "US officials called the 2 November strike defensive, against Iranians firing surface-to-air missiles. Trump confirmed minor strikes on 6 November; Iranian state media said missiles hit Qeshm.",
+  "when": "2 and 6 November 2026",
+  "why": "It shows the US is using limited force while it keeps the blockade.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+    "publisher": "Al Jazeera",
+    "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+    "published": "2026-11-03"
+   },
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+    "publisher": "CBS News",
+    "title": "Iran downplays new U.S. task force aimed at disrupting ground transport routes",
+    "published": "2026-11-08"
+   }
+  ]
+ },
+ {
+  "id": "nuclear-stock-iaea-access-1",
+  "event": "nuclear-stock-iaea-access",
+  "from": "vienna",
+  "to": "isfahan",
+  "type": "diplomacy",
+  "label": "IAEA requests access to Isfahan",
+  "who": "The UN nuclear watchdog is asking Iran for access to its sites.",
+  "what": "The IAEA says it cannot check the Isfahan enrichment plant or the highly enriched stock. Iran says inspections cannot resume under US threats.",
+  "when": "September to November 2026",
+  "why": "Without access the world cannot verify where Iran's enriched uranium is.",
+  "sources": [
+   {
+    "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+    "publisher": "CBS News",
+    "title": "Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets",
+    "published": "2026-11-16"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/9/2/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog",
+    "publisher": "Al Jazeera",
+    "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
+    "published": "2026-09-01"
+   },
+   {
+    "url": "https://www.foxnews.com/live-news/oil-prices-war-strikes-donald-trump-iran-11-13-26.amp",
+    "publisher": "Fox News",
+    "title": "Iran rules out nuclear inspections while under threat from US",
+    "published": "2026-11-13"
+   },
+   {
+    "url": "https://www.al-monitor.com/originals/2026/10/un-nuclear-watchdog-chief-urges-iran-grant-access",
+    "publisher": "Al-Monitor (AFP)",
+    "title": "UN nuclear watchdog chief urges Iran to grant access",
+    "published": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "id": "oil-exports-sanctions-1",
+  "event": "oil-exports-sanctions",
+  "from": "kharg-island",
+  "to": "beijing",
+  "type": "trade",
+  "label": "Iranian crude to China, now stalled",
+  "who": "Iran, selling crude oil to buyers in China",
+  "what": "Bloomberg says Iran shipped nearly 650 million barrels in the year to April, mostly to China, and that loadings stopped after late August.",
+  "when": "Year to April 2026; halted since late August 2026",
+  "why": "Bloomberg says China's refiners are looking for other supply.",
+  "sources": [
+   {
+    "url": "https://gcaptain.com/irans-main-oil-terminals-remain-empty-as-us-blockade-bites/",
+    "publisher": "gCaptain (Bloomberg report)",
+    "title": "Iran's main oil terminals remain empty as US blockade bites",
+    "published": "2026-10-19"
+   },
+   {
+    "url": "https://windward.ai/blog/kharg-standstill-and-a-russian-convoy-on-the-arctic-route/",
+    "publisher": "Windward",
+    "title": "Kharg Standstill and a Russian Convoy on the Arctic Route",
+    "published": "2026-08-09"
+   }
+  ]
+ },
+ {
+  "id": "oil-exports-sanctions-2",
+  "event": "oil-exports-sanctions",
+  "from": "washington",
+  "to": "tehran",
+  "type": "sanctions",
+  "label": "Operation Economic Outcast sanctions",
+  "who": "The US government is targeting firms that do business with Iran.",
+  "what": "Al Jazeera says the US launched the operation in late August to penalise companies trading with Iran, adding to the blockade and earlier sanctions.",
+  "when": "From late August 2026",
+  "why": "The blockade already cost Iran at least 6 billion dollars in oil revenue, Al Jazeera reported in August.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february",
+    "publisher": "Al Jazeera",
+    "title": "US-Iran war, then and now: How the landscape has changed since February",
+    "published": "2026-10-23"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost",
+    "publisher": "Al Jazeera",
+    "title": "After six months of war, what have US, Iran gained and lost?",
+    "published": "2026-08-28"
+   }
+  ]
+ },
+ {
+  "id": "talks-qatar-pakistan-stalled-1",
+  "event": "talks-qatar-pakistan-stalled",
+  "from": "doha",
+  "to": "washington",
+  "type": "diplomacy",
+  "label": "Qatar PM carries Iran's proposal",
+  "who": "Qatar's prime minister is acting as go-between for Iran and the US.",
+  "what": "Al Jazeera reports he met Trump and Vance around 9 November and reportedly presented Iran's two-day proposal to end the war.",
+  "when": "Around 9 November 2026",
+  "why": "Analyst Andreas Krieg told Al Jazeera that Qatar does much of the detailed negotiating.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+    "publisher": "Al Jazeera",
+    "title": "After meeting Qatar PM, Trump calls Iran war 'effectively over' militarily",
+    "published": "2026-11-09"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting",
+    "publisher": "Al Jazeera",
+    "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+    "published": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "id": "talks-qatar-pakistan-stalled-2",
+  "event": "talks-qatar-pakistan-stalled",
+  "from": "islamabad",
+  "to": "tehran",
+  "type": "diplomacy",
+  "label": "Pakistan army chief visits Tehran",
+  "who": "Pakistan's army chief is mediating with Iranian leaders.",
+  "what": "Field Marshal Asim Munir arrived in Tehran on 20 October, his fifth visit since the April ceasefire. Pakistan's Foreign Office says the Islamabad memorandum is still in place.",
+  "when": "20 October 2026",
+  "why": "Pakistan gives access to both capitals, though analyst Andreas Krieg says its defence pact with Saudi Arabia strains its neutrality.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting",
+    "publisher": "Al Jazeera",
+    "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+    "published": "2026-10-20"
+   }
+  ]
+ },
+ {
+  "id": "houthis-saudi-red-sea-1",
+  "event": "houthis-saudi-red-sea",
+  "from": "sanaa",
+  "to": "riyadh",
+  "type": "military",
+  "label": "Houthi drone and missile attacks",
+  "who": "Yemen's Houthis acting on Saudi Arabia",
+  "what": "Houthis say they hit an oil pipeline, Yanbu, airports and an air base. The Saudi-led coalition says it intercepted drones. Saudi authorities have not confirmed the Houthi claims.",
+  "when": "Since July 2026, latest 12 November 2026",
+  "why": "The attacks target Saudi oil sites while Riyadh says it routes about 4 million barrels a day through Yanbu.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions",
+    "publisher": "Al Jazeera",
+    "title": "Yemen's Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+    "published": "2026-11-12"
+   },
+   {
+    "url": "https://acleddata.com/report/houthi-gains-around-bab-al-mandab-raise-risks-red-sea-shipping-and-global-oil-markets",
+    "publisher": "ACLED",
+    "title": "Houthi gains around Bab al-Mandab raise risks to Red Sea shipping and global oil markets",
+    "published": "2026-10-01"
+   },
+   {
+    "url": "https://www.jpost.com/middle-east/article-913945",
+    "publisher": "The Jerusalem Post (Reuters)",
+    "title": "Houthi attacks prompt Saudi Yanbu warnings as missile intercepted near Medina",
+    "published": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "id": "houthis-saudi-red-sea-2",
+  "event": "houthis-saudi-red-sea",
+  "from": "tehran",
+  "to": "sanaa",
+  "type": "proxy",
+  "label": "Iran backs the Houthis",
+  "who": "Iran supporting the Houthi movement",
+  "what": "One analyst told Al Jazeera the Houthi position at Bab al-Mandab benefits Iran. Iran told Saudi officials it has limited sway over the group, The National reports.",
+  "when": "Ongoing in 2026",
+  "why": "Iran's role decides whether regional talks can calm the Houthi attacks.",
+  "sources": [
+   {
+    "url": "https://www.thenationalnews.com/news/gulf/2026/10/27/exclusive-iran-saudi-arabia-inside-tehran-talks/",
+    "publisher": "The National",
+    "title": "Inside Tehran talks: Iranians link Houthi de-escalation to US approval of regional truce",
+    "published": "2026-10-27"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast",
+    "publisher": "Al Jazeera",
+    "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+    "published": "2026-09-11"
+   }
+  ]
+ },
+ {
+  "id": "houthis-saudi-red-sea-3",
+  "event": "houthis-saudi-red-sea",
+  "from": "riyadh",
+  "to": "tehran",
+  "type": "diplomacy",
+  "label": "Saudi, Pakistan, Turkey talks in Tehran",
+  "who": "Saudi, Pakistani and Turkish officials meeting Iranian leaders",
+  "what": "Officials met in Tehran on 26 October. Sources say they agreed only to keep talking. A second round, possibly in Turkey, was not ruled out.",
+  "when": "26 October 2026",
+  "why": "It is the main channel for trying to stop Houthi attacks on Saudi Arabia.",
+  "sources": [
+   {
+    "url": "https://www.thenationalnews.com/news/gulf/2026/10/27/exclusive-iran-saudi-arabia-inside-tehran-talks/",
+    "publisher": "The National",
+    "title": "Inside Tehran talks: Iranians link Houthi de-escalation to US approval of regional truce",
+    "published": "2026-10-27"
+   }
+  ]
+ },
+ {
+  "id": "gaza-ceasefire-stalled-1",
+  "event": "gaza-ceasefire-stalled",
+  "from": "tel-aviv",
+  "to": "rafah",
+  "type": "military",
+  "label": "Israeli strike on Hamas commander",
+  "who": "Israel's military acting on Hamas in southern Gaza",
+  "what": "CNN reports that Israel and Hamas both confirmed the death of Hamas's Rafah Brigade commander in an overnight strike. Israel's defence minister said operations continue until Gaza is demilitarised and there is no Hamas.",
+  "when": "Overnight, 15 to 16 November 2026",
+  "why": "Such strikes strain the truce, and Israel ties any pullback to Hamas disarming.",
+  "sources": [
+   {
+    "url": "https://kaieteurnewsonline.com/2026/11/16/israel-kills-senior-hamas-commander-in-gaza-two-months-after-killing-his-predecessor-as-ceasefire-stagnates/",
+    "publisher": "CNN (republished by Kaieteur News)",
+    "title": "Israel kills senior Hamas commander in Gaza two months after killing his predecessor as ceasefire stagnates",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "lebanon-hezbollah-disarmament-1",
+  "event": "lebanon-hezbollah-disarmament",
+  "from": "tel-aviv",
+  "to": "bekaa-valley",
+  "type": "military",
+  "label": "Israeli strike on arms shipment",
+  "who": "Israel's military acting on Hezbollah supply routes",
+  "what": "Israel says it hit a weapons shipment moving from Syria to Hezbollah. Lebanon's news agency reported no casualties or damage.",
+  "when": "16 November 2026",
+  "why": "Israel says it targeted a weapons shipment bound for Hezbollah. AFP notes hostilities have declined since June.",
+  "sources": [
+   {
+    "url": "https://english.aawsat.com/arab-world/5341880-israel-strikes-east-lebanon-says-targeting-hezbollah-arms",
+    "publisher": "Asharq Al-Awsat",
+    "title": "Israel Strikes East Lebanon, Says Targeting Hezbollah Arms",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "lebanon-hezbollah-disarmament-2",
+  "event": "lebanon-hezbollah-disarmament",
+  "from": "washington",
+  "to": "beirut",
+  "type": "diplomacy",
+  "label": "US envoy Waltz visits Beirut",
+  "who": "US ambassador to the UN Mike Waltz, meeting Lebanon's leaders",
+  "what": "Waltz met President Aoun, Prime Minister Salam and Speaker Berri on 16 November to discuss what replaces the UN force, The National reports.",
+  "when": "16 November 2026",
+  "why": "The US-brokered framework ties Israeli withdrawal to verified Hezbollah disarmament, but it has not gone beyond two pilot zones.",
+  "sources": [
+   {
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/16/waltz-visits-beirut-as-un-peacekeepers-set-to-leave-with-lebanon-and-israel-still-at-odds/",
+    "publisher": "The National",
+    "title": "Waltz visits Beirut as UN peacekeepers set to leave with Lebanon and Israel still at odds",
+    "published": "2026-11-16"
+   },
+   {
+    "url": "https://www.securitycouncilreport.org/monthly-forecast/2026-11/lebanon-41.php",
+    "publisher": "Security Council Report",
+    "title": "Lebanon, November 2026 Monthly Forecast",
+    "published": "2026-11-02"
+   },
+   {
+    "url": "https://www.everycrsreport.com/files/2026-11-09_R44759_8989be72e1b378ead69a778a3038343efb462590.html",
+    "publisher": "Congressional Research Service",
+    "title": "Lebanon: Background and U.S. Relations",
+    "published": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "id": "lebanon-hezbollah-disarmament-3",
+  "event": "lebanon-hezbollah-disarmament",
+  "from": "tehran",
+  "to": "beirut",
+  "type": "proxy",
+  "label": "Iran-backed Hezbollah",
+  "who": "Iran, described as backing Hezbollah",
+  "what": "Asharq Al-Awsat calls Hezbollah Iran-backed and says its supply route through Syria was cut after Assad fell. Hezbollah lawmakers say the group is rebuilding.",
+  "when": "Ongoing",
+  "why": "Hezbollah's arms and rebuilding drive Israel's strikes and the disarmament dispute.",
+  "sources": [
+   {
+    "url": "https://english.aawsat.com/arab-world/5341880-israel-strikes-east-lebanon-says-targeting-hezbollah-arms",
+    "publisher": "Asharq Al-Awsat",
+    "title": "Israel Strikes East Lebanon, Says Targeting Hezbollah Arms",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "iraq-militia-standoff-1",
+  "event": "iraq-militia-standoff",
+  "from": "tehran",
+  "to": "jurf-al-sakhar",
+  "type": "proxy",
+  "label": "Iran-backed Kataib Hezbollah",
+  "who": "Iran, described as backing Kataib Hezbollah in Iraq",
+  "what": "The National calls Kataib Hezbollah Iran-backed. Shafaq, citing unnamed sources, reports Quds Force commander Qaani urged factions not to disarm for now.",
+  "when": "Ongoing, reported August to November 2026",
+  "why": "Kataib Hezbollah says its weapons stay with its fighters and calls the government's push blackmail.",
+  "sources": [
+   {
+    "url": "https://www.thenationalnews.com/news/mena/2026/11/11/iraqi-pm-orders-inquiry-into-oil-product-smuggling-in-area-controlled-by-iran-backed-militia/",
+    "publisher": "The National",
+    "title": "Iraqi PM orders inquiry into oil product smuggling in area controlled by Iran-backed militia",
+    "published": "2026-11-11"
+   },
+   {
+    "url": "https://www.shafaq.com/en/Iraq/Kataib-Hezbollah-sets-conditions-on-Iraq-weapons-talks",
+    "publisher": "Shafaq News",
+    "title": "Kataib Hezbollah sets conditions on Iraq weapons talks",
+    "published": "2026-08-17"
+   },
+   {
+    "url": "https://thenationalnews.com/news/mena/2026/10/01/resistance-has-won-this-round-kataib-hezbollah-denies-disarmament-deal-after-us-troops-leave-iraq",
+    "publisher": "The National",
+    "title": "'Resistance has won this round:' Kataib Hezbollah denies disarmament deal after US troops leave Iraq",
+    "published": "2026-10-01"
+   },
+   {
+    "url": "https://english.aawsat.com/arab-world/5342044-iraq-orders-army-enter-jurf-al-sakhar-confrontation-kataib-hezbollah-escalates",
+    "publisher": "Asharq Al-Awsat (AFP)",
+    "title": "Iraq Orders Army to Enter Jurf al-Sakhar as Confrontation with Kataib Hezbollah Escalates",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "syria-saudi-defence-deal-1",
+  "event": "syria-saudi-defence-deal",
+  "from": "damascus",
+  "to": "riyadh",
+  "type": "diplomacy",
+  "label": "Sharaa visits Riyadh, signs defence deal",
+  "who": "Syrian President al-Sharaa, visiting Saudi Crown Prince Mohammed bin Salman",
+  "what": "The two countries' defence ministries signed a cooperation agreement during the visit, plus six Saudi development loans worth over $403 million.",
+  "when": "4 November 2026",
+  "why": "It ties Syria's new government closer to Saudi Arabia amid the Houthi threat.",
+  "sources": [
+   {
+    "url": "https://aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans",
+    "publisher": "Al Jazeera",
+    "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+    "published": "2026-11-05"
+   },
+   {
+    "url": "https://www.jpost.com/middle-east/article-914202",
+    "publisher": "The Jerusalem Post",
+    "title": "Syria, Saudi Arabia expand partnership with defense cooperation agreement amid Houthi threat",
+    "published": "2026-11-08"
+   },
+   {
+    "url": "https://www.khaleejtimes.com/mena/saudi-arabia-syria-defence-ministries-sign-cooperation-agreement",
+    "publisher": "Khaleej Times (Reuters)",
+    "title": "Saudi, Syrian defence ministries sign cooperation agreement",
+    "published": "2026-11-05"
+   }
+  ]
+ },
+ {
+  "id": "russia-ukraine-war-1",
+  "event": "russia-ukraine-war",
+  "from": "kyiv",
+  "to": "crimean-bridge",
+  "type": "military",
+  "label": "Drone strike on bridge, refineries",
+  "who": "Ukraine against Russian infrastructure",
+  "what": "Russia says Ukraine sent its biggest overnight drone wave of the war on 16 November, hitting a Crimea bridge and oil sites. Russia's ministry says it downed 1,336 drones.",
+  "when": "Night of 15 to 16 November 2026",
+  "why": "Fuel and transport links support Russia's war effort; Moscow says damage was limited.",
+  "sources": [
+   {
+    "url": "https://nbcnews.com/world/ukraine/ukraine-launches-biggest-drone-attack-russia-war-began-rcna609555",
+    "publisher": "Reuters (via NBC News)",
+    "title": "Ukraine launches biggest drone attack on Russia since war began",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "russia-ukraine-war-2",
+  "event": "russia-ukraine-war",
+  "from": "moscow",
+  "to": "kyiv",
+  "type": "military",
+  "label": "Russian drones on Ukrainian energy",
+  "who": "Russia against Ukrainian energy and cities",
+  "what": "Ukraine's air force says Russia fired 162 drones and a ballistic missile overnight around the 10 November talks. ISW says Russia is targeting Ukrainian energy sites.",
+  "when": "November 2026",
+  "why": "Attacks on power supply hurt civilians and industry as winter arrives.",
+  "sources": [
+   {
+    "url": "https://www.inquirer.com/news/nation-world/russia-ukraine-peace-talks-abu-dhabi-putin-zelesnky-kushner-trump-20261110.html",
+    "publisher": "Associated Press (via Philadelphia Inquirer)",
+    "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+    "published": "2026-11-10"
+   },
+   {
+    "url": "https://www.kyivpost.com/post/90195",
+    "publisher": "Institute for the Study of War (via Kyiv Post)",
+    "title": "ISW Russian Offensive Campaign Assessment, November 15, 2026",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "russia-ukraine-war-3",
+  "event": "russia-ukraine-war",
+  "from": "washington",
+  "to": "abu-dhabi",
+  "type": "diplomacy",
+  "label": "US-mediated Russia-Ukraine talks",
+  "who": "US envoys Witkoff and Kushner host Russian and Ukrainian delegations",
+  "what": "The US hosted talks on 10 and 11 November, the first in nine months. Reuters reported on 16 November that both sides agreed a big prisoner exchange, with no major progress on territory.",
+  "when": "10 to 11 November 2026",
+  "why": "Shows a channel is open, though positions on land and NATO remain far apart.",
+  "sources": [
+   {
+    "url": "https://www.al-monitor.com/originals/2026/11/us-mediate-trilateral-talks-ukraine-russia-abu-dhabi-next-week-us-envoy-says",
+    "publisher": "Reuters (via Al-Monitor)",
+    "title": "US to mediate trilateral talks with Ukraine, Russia in Abu Dhabi next week, US envoy says",
+    "published": "2026-11-02"
+   },
+   {
+    "url": "https://www.inquirer.com/news/nation-world/russia-ukraine-peace-talks-abu-dhabi-putin-zelesnky-kushner-trump-20261110.html",
+    "publisher": "Associated Press (via Philadelphia Inquirer)",
+    "title": "Russia and Ukraine hold nearly 4 hours of U.S.-mediated talks in Abu Dhabi",
+    "published": "2026-11-10"
+   },
+   {
+    "url": "https://nbcnews.com/world/ukraine/ukraine-launches-biggest-drone-attack-russia-war-began-rcna609555",
+    "publisher": "Reuters (via NBC News)",
+    "title": "Ukraine launches biggest drone attack on Russia since war began",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "china-taiwan-drills-1",
+  "event": "china-taiwan-drills",
+  "from": "beijing",
+  "to": "taipei",
+  "type": "military",
+  "label": "Unannounced Chinese naval drills",
+  "who": "China's navy and coast guard around Taiwan and the western Pacific",
+  "what": "Taiwanese officials say over 100 Chinese ships were massed in early November. About 70 remained inside the first island chain on 13 November.",
+  "when": "From 2 November 2026",
+  "why": "Taiwan's defence ministry says the drills aim to keep outside forces from helping in a Taiwan crisis.",
+  "sources": [
+   {
+    "url": "https://www.staradvertiser.com/2026/11/13/breaking-news/china-stages-unannounced-pacific-drills-in-intimidation-of-taiwan/",
+    "publisher": "Reuters (via Honolulu Star-Advertiser)",
+    "title": "China stages unannounced Pacific drills in intimidation of Taiwan",
+    "published": "2026-11-13"
+   },
+   {
+    "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
+    "publisher": "France 24",
+    "title": "What we know about China's military exercises around Taiwan",
+    "published": "2026-11-13"
+   }
+  ]
+ },
+ {
+  "id": "pakistan-afghanistan-clashes-1",
+  "event": "pakistan-afghanistan-clashes",
+  "from": "islamabad",
+  "to": "kabul",
+  "type": "military",
+  "label": "Pakistani strikes and border fire",
+  "who": "Pakistan's military against Taliban posts and alleged militant camps",
+  "what": "Local sources told Afghan media, per Long War Journal, that Pakistani forces started the 29 October fighting in Paktika. Pakistan's military says the Taliban shelter TTP militants, Dawn reports.",
+  "when": "October to November 2026",
+  "why": "Pakistan says Afghanistan shelters TTP militants; the Taliban deny it.",
+  "sources": [
+   {
+    "url": "https://www.longwarjournal.org/archives/2026/11/taliban-pakistan-border-clashes-continue-ttp-attack-kills-10-pakistani-police.php",
+    "publisher": "FDD's Long War Journal",
+    "title": "Taliban-Pakistan border clashes continue, TTP attack kills 10 Pakistani police",
+    "published": "2026-11-12"
+   },
+   {
+    "url": "https://asianews.network/?p=312060",
+    "publisher": "Dawn (via Asia News Network)",
+    "title": "Pakistan warns Afghanistan of 'unbearable punishment' as clashes persist along border",
+    "published": "2026-11-02"
+   },
+   {
+    "url": "https://www.arabnews.pk/world/militants-ambush-police-in-pakistan-sparking-gunbattle-that-kills-10-officers-and-18-militants-3006790",
+    "publisher": "Associated Press (via Arab News)",
+    "title": "Militants ambush police in Pakistan, sparking gunbattle that kills 10 officers and 18 militants",
+    "published": "2026-11-11"
+   }
+  ]
+ },
+ {
+  "id": "south-china-sea-scarborough-1",
+  "event": "south-china-sea-scarborough",
+  "from": "beijing",
+  "to": "scarborough-shoal",
+  "type": "military",
+  "label": "Chinese readiness patrols at shoal",
+  "who": "China's navy, air force and coast guard at a disputed shoal",
+  "what": "China's Southern Theater Command says it held combat-readiness patrols on 30 October. A Philippine flight on 29 October counted three Chinese coast guard ships, five militia vessels and a warship.",
+  "when": "29 to 30 October 2026",
+  "why": "Manila says the shoal lies in its exclusive economic zone; Beijing claims it and calls it Huangyan Dao.",
+  "sources": [
+   {
+    "url": "https://thedefensepost.com/2026/11/03/philippines-probes-chinese-vessel-shoal/",
+    "publisher": "The Defense Post",
+    "title": "Philippine Coast Guard Probes Chinese Vessel With Unidentified Equipment Inside Scarborough Shoal",
+    "published": "2026-11-03"
+   },
+   {
+    "url": "https://amti.csis.org/occupational-risk-chinese-presence-surges-at-scarborough-shoal/",
+    "publisher": "CSIS Asia Maritime Transparency Initiative",
+    "title": "Occupational Risk? Chinese Presence Surges at Scarborough Shoal",
+    "published": "2026-07-02"
+   }
+  ]
+ },
+ {
+  "id": "north-korea-missile-tests-1",
+  "event": "north-korea-missile-tests",
+  "from": "pyongyang",
+  "to": "sea-of-japan",
+  "type": "military",
+  "label": "Missile launches toward East Sea",
+  "who": "North Korea's Missile Administration, observed by South Korea's military",
+  "what": "South Korea's Joint Chiefs say multiple missiles flew under 300 km from the Sondok area on 4 November. KCNA calls it an air-defence test.",
+  "when": "4 November 2026",
+  "why": "It came two days after a cruise missile test on 2 November, which KCNA also reported.",
+  "sources": [
+   {
+    "url": "https://www.koreaherald.com/article/10926441",
+    "publisher": "The Korea Herald",
+    "title": "N. Korea says it test-fired new air defense missile system",
+    "published": "2026-11-05"
+   },
+   {
+    "url": "https://www.stripes.com/theaters/asia_pacific/2026-11-05/north-korea-missile-technology-diplomacy-23369224.html",
+    "publisher": "Stars and Stripes",
+    "title": "North Korea claims new missile technology as Trump-Kim diplomacy remains in doubt",
+    "published": "2026-11-05"
+   },
+   {
+    "url": "https://www.stripes.com/theaters/asia_pacific/2026-11-03/north-korea-cruise-missile-warhead-test-23346782.html",
+    "publisher": "Stars and Stripes",
+    "title": "North Korea claims cruise missile warhead can devastate 15-acre area",
+    "published": "2026-11-03"
+   }
+  ]
+ },
+ {
+  "id": "japan-china-taiwan-row-1",
+  "event": "japan-china-taiwan-row",
+  "from": "beijing",
+  "to": "tokyo",
+  "type": "sanctions",
+  "label": "Chinese trade and travel curbs",
+  "who": "China against Japan",
+  "what": "Bloomberg reports China restricted rare earth exports to Japan, curbed seafood imports and urged citizens to avoid travel there. AFP says China used trade limits and a travel warning.",
+  "when": "Since late 2025",
+  "why": "Beijing is pressing Tokyo over Takaichi's remark that a Taiwan attack could threaten Japan.",
+  "sources": [
+   {
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/japan-works-to-shield-takaichi-from-any-xi-snub-at-china039s-apec-summit",
+    "publisher": "Bloomberg (via The Star)",
+    "title": "Japan works to shield Takaichi from any Xi snub at China's APEC summit",
+    "published": "2026-11-09"
+   },
+   {
+    "url": "https://www.france24.com/en/live-news/20261116-frosty-china-welcome-likely-for-japan-pm-due-to-taiwan-row",
+    "publisher": "AFP (via France 24)",
+    "title": "Frosty China welcome likely for Japan PM due to Taiwan row",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "sudan-kordofan-war-1",
+  "event": "sudan-kordofan-war",
+  "from": "el-obeid",
+  "to": "al-khuway",
+  "type": "military",
+  "label": "Army offensive in West Kordofan",
+  "who": "Sudan's army and allied Joint Force against the RSF",
+  "what": "Army and allies say they retook Al-Khuway on 13 November, on a road link towards Darfur. The RSF has not commented and the claim is unverified.",
+  "when": "13 November 2026",
+  "why": "Radio Tamazuj says the town lies on roads linking Kordofan with parts of Darfur, which matter for supplies and troop movements.",
+  "sources": [
+   {
+    "url": "https://radiotamazuj.org/en/news/article/sudanese-army-allies-announce-recapture-of-key-west-kordofan-town",
+    "publisher": "Radio Tamazuj",
+    "title": "Sudanese army, allies announce recapture of key West Kordofan town",
+    "published": "2026-11-13"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/4/is-the-sudanese-army-gaining-momentum-against-the-rsf",
+    "publisher": "Al Jazeera",
+    "title": "Is the Sudanese army gaining momentum against the RSF?",
+    "published": "2026-10-04"
+   }
+  ]
+ },
+ {
+  "id": "sudan-kordofan-war-2",
+  "event": "sudan-kordofan-war",
+  "from": "washington",
+  "to": "port-sudan",
+  "type": "diplomacy",
+  "label": "US push for 90-day truce",
+  "who": "US adviser Massad Boulos mediating between the army and the RSF",
+  "what": "US mediators sought a 90-day humanitarian truce. By early August it had not succeeded: the army wants the RSF to leave cities first, and the RSF calls that surrender.",
+  "when": "February to August 2026",
+  "why": "US mediators were still trying to revive the truce in August, Africanews reports; no truce has been agreed.",
+  "sources": [
+   {
+    "url": "https://www.africanews.com/2026/08/04/us-brokered-peace-efforts-for-sudan-encounter-new-obstacles/",
+    "publisher": "Africanews",
+    "title": "U.S.-brokered peace efforts for Sudan encounter new obstacles",
+    "published": "2026-08-04"
+   },
+   {
+    "url": "https://www.thenationalnews.com/news/mena/2026/02/14/uks-yvette-cooper-denies-uae-sent-british-arms-to-sudans-rsf-with-more-than-a-dozen-countries-fueling-war",
+    "publisher": "The National",
+    "title": "UK's Yvette Cooper denies UAE sent British arms to Sudan's RSF with more than a 'dozen countries' fuelling war",
+    "published": "2026-02-14"
+   }
+  ]
+ },
+ {
+  "id": "ethiopia-eritrea-tigray-1",
+  "event": "ethiopia-eritrea-tigray",
+  "from": "addis-ababa",
+  "to": "mekelle",
+  "type": "military",
+  "label": "Federal forces retake Mekelle",
+  "who": "Ethiopian army and Tigray Peace Force against the TPLF-led alliance",
+  "what": "After the TPLF-led alliance attacked on 23 September and briefly held Mekelle, it withdrew on 3 October. Government-allied forces then entered the city.",
+  "when": "September to October 2026",
+  "why": "An Addis Standard analysis says the TPLF will keep fighting, so holding Mekelle does not settle the conflict.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war",
+    "publisher": "Al Jazeera",
+    "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+    "published": "2026-10-11"
+   },
+   {
+    "url": "https://allafrica.com/stories/202611160588.html",
+    "publisher": "Addis Standard via allAfrica",
+    "title": "Ethiopia's Second Tigray War - Same Battlefield, Different Political Reality",
+    "published": "2026-11-16"
+   }
+  ]
+ },
+ {
+  "id": "ethiopia-eritrea-tigray-2",
+  "event": "ethiopia-eritrea-tigray",
+  "from": "asmara",
+  "to": "zalambessa",
+  "type": "military",
+  "label": "Alleged Eritrean troops cross border",
+  "who": "Eritrean forces, as alleged by Ethiopia, into Tigray",
+  "what": "Ethiopia says Eritrean troops advanced up to 60 km into Tigray. Witnesses and ACLED reported crossings near Zalambessa and Ethiopian drone strikes. Eritrea rejects the claim.",
+  "when": "October 2026",
+  "why": "A direct clash between the two states would turn a civil conflict into a regional war.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/9/ethiopia-and-eritrea-accuse-one-another-of-launching-war",
+    "publisher": "Al Jazeera",
+    "title": "Ethiopia and Eritrea accuse one another of launching war",
+    "published": "2026-10-09"
+   },
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war",
+    "publisher": "Al Jazeera",
+    "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+    "published": "2026-10-11"
+   }
+  ]
+ },
+ {
+  "id": "us-china-trade-truce-1",
+  "event": "us-china-trade-truce",
+  "from": "washington",
+  "to": "beijing",
+  "type": "sanctions",
+  "label": "US tariffs on Chinese goods",
+  "who": "The US government against Chinese imports",
+  "what": "The US kept its tariffs on Chinese goods but extended 178 exclusions and paused a maritime-sector Section 301 action, according to The National.",
+  "when": "9 to 10 November 2026",
+  "why": "The National says Treasury Secretary Bessent urged China to \"fully and immediately\" meet its Busan commitments.",
+  "sources": [
+   {
+    "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+    "publisher": "The National",
+    "title": "China extends pause on rare earth export curbs for two months",
+    "published": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "id": "us-china-trade-truce-2",
+  "event": "us-china-trade-truce",
+  "from": "beijing",
+  "to": "washington",
+  "type": "trade",
+  "label": "China pauses mineral export curbs",
+  "who": "China's commerce and finance ministries towards the US",
+  "what": "China's commerce ministry extended its pause on some critical mineral export controls to 10 January 2027. The National says a 24% tariff stays paused, but a 10% charge remains.",
+  "when": "9 November 2026",
+  "why": "Reuters says the pause on these export controls now runs to 10 January 2027.",
+  "sources": [
+   {
+    "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+    "publisher": "The National",
+    "title": "China extends pause on rare earth export curbs for two months",
+    "published": "2026-11-09"
+   },
+   {
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/09/china-extends-suspension-of-rare-earth-export-controls-until-january",
+    "publisher": "Reuters (via The Star)",
+    "title": "China extends suspension of rare earth export controls until January",
+    "published": "2026-11-09"
+   }
+  ]
+ },
+ {
+  "id": "mali-jnim-sahel-1",
+  "event": "mali-jnim-sahel",
+  "from": "moscow",
+  "to": "bamako",
+  "type": "proxy",
+  "label": "Russia's Africa Corps backs junta",
+  "who": "Russia's Defence Ministry-run Africa Corps supports Mali's army",
+  "what": "Africa Corps fights beside Mali's army and backed the air and ground operation to retake Kidal in October, according to Mali's government.",
+  "when": "Ongoing in 2026",
+  "why": "Mali's junta relies on Russia after expelling French forces in 2022.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali",
+    "publisher": "Al Jazeera",
+    "title": "Mali's army says it has taken Kidal from Tuareg rebels, with Russia's help",
+    "published": "2026-10-06"
+   },
+   {
+    "url": "https://wtop.com/news/2026/07/what-to-know-about-the-conflict-in-mali-and-the-worlds-most-terrorized-region/",
+    "publisher": "Associated Press via WTOP",
+    "title": "What to know about the conflict in Mali and the world's most terrorized region",
+    "published": "2026-07-31"
+   }
+  ]
+ },
+ {
+  "id": "venezuela-us-transition-1",
+  "event": "venezuela-us-transition",
+  "from": "washington",
+  "to": "caracas",
+  "type": "military",
+  "label": "US forces capture Maduro",
+  "who": "US forces, against Venezuela's president",
+  "what": "US forces captured President Nicolas Maduro on 3 January 2026, AP reported. His vice president, Delcy Rodriguez, later became acting president.",
+  "when": "3 January 2026",
+  "why": "It removed Venezuela's leader by force and gave Washington a direct say in what comes next.",
+  "sources": [
+   {
+    "url": "https://abc30.com/amp/post/us-venezuela-news-strikes-country-says-venezuelan-president-nicols-maduro-captured-wife/18346121/",
+    "publisher": "Associated Press (via ABC30)",
+    "title": "US-Venezuela news LIVE: Venezuelan President Nicolas Maduro captured, with wife Cilia Flores, amid US strikes, Donald Trump says",
+    "published": "2026-01-03"
+   },
+   {
+    "url": "https://aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition",
+    "publisher": "Al Jazeera",
+    "title": "US urges Venezuela to follow phased plan for democratic transition",
+    "published": "2026-11-03"
+   },
+   {
+    "url": "https://www.news4jax.com/news/world/2026/11/02/rubio-meets-venezuelan-counterpart-as-us-presses-for-progress-on-election-preparations/",
+    "publisher": "Associated Press via News4JAX",
+    "title": "Rubio meets Venezuelan counterpart as US presses for progress on election preparations",
+    "published": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "venezuela-us-transition-2",
+  "event": "venezuela-us-transition",
+  "from": "caracas",
+  "to": "washington",
+  "type": "diplomacy",
+  "label": "Blanco meets Rubio on transition",
+  "who": "Venezuela's foreign minister Oliver Blanco meets US Secretary of State Rubio",
+  "what": "On 2 November the State Department said Rubio reaffirmed a three-phase plan and urged more prisoner releases. Neither side spoke to reporters.",
+  "when": "2 November 2026",
+  "why": "The US ties its support to a staged path towards elections.",
+  "sources": [
+   {
+    "url": "https://aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition",
+    "publisher": "Al Jazeera",
+    "title": "US urges Venezuela to follow phased plan for democratic transition",
+    "published": "2026-11-03"
+   },
+   {
+    "url": "https://www.news4jax.com/news/world/2026/11/02/rubio-meets-venezuelan-counterpart-as-us-presses-for-progress-on-election-preparations/",
+    "publisher": "Associated Press via News4JAX",
+    "title": "Rubio meets Venezuelan counterpart as US presses for progress on election preparations",
+    "published": "2026-11-02"
+   }
+  ]
+ },
+ {
+  "id": "venezuela-us-transition-3",
+  "event": "venezuela-us-transition",
+  "from": "caracas",
+  "to": "corpus-christi",
+  "type": "trade",
+  "label": "Venezuelan oil shipped to US",
+  "who": "Venezuela supplies crude to the US under a deal with a Pentagon stake",
+  "what": "Trump said a tanker at Corpus Christi carried 1 million barrels of Venezuelan oil. The White House said the first shipment for US reserves would likely arrive in November.",
+  "when": "August to November 2026",
+  "why": "The US wants Venezuelan crude, while critics question transparency of the deal.",
+  "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/10/27/trump-showcases-venezuelan-oil-as-he-seeks-to-rally-voters-in-texas",
+    "publisher": "Al Jazeera",
+    "title": "Trump touts Venezuelan oil at Texas rally ahead of US midterms",
+    "published": "2026-10-27"
+   },
+   {
+    "url": "https://aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition",
+    "publisher": "Al Jazeera",
+    "title": "US urges Venezuela to follow phased plan for democratic transition",
+    "published": "2026-11-03"
+   }
+  ]
+ }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "geo-map",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "Interactive map of current world events with cited sources. Static files, no install step: libraries and fonts are vendored in vendor/.",
+  "scripts": {
+    "start": "node serve.mjs",
+    "build": "node build.mjs",
+    "check": "node build.mjs --check",
+    "check:coords": "node scripts/check-coords.mjs",
+    "check:style": "node scripts/check-style.mjs"
+  }
+}

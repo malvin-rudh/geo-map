@@ -1,0 +1,5 @@
+*.log
+node_modules/
+.DS_Store
+data/.dist-data.json
+coords-plot.svg

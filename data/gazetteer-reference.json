@@ -1,0 +1,1183 @@
+{
+ "tehran": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Tehran",
+   "lat": 35.6889,
+   "lon": 51.3897,
+   "url": "https://en.wikipedia.org/wiki/Tehran"
+  },
+  "osm": {
+   "query": "Tehran, Iran",
+   "lat": 35.6892523,
+   "lon": 51.3896004,
+   "display_name": "Tehran, Central Tehran section, Tehran County, Tehran Province, Iran"
+  }
+ },
+ "isfahan": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Isfahan",
+   "lat": 32.66527778,
+   "lon": 51.67027778,
+   "url": "https://en.wikipedia.org/wiki/Isfahan"
+  },
+  "osm": {
+   "query": "Isfahan, Iran",
+   "lat": 32.6707877,
+   "lon": 51.6650002,
+   "display_name": "Isfahan, بخش مرکزی شهرستان اصفهان, Isfahan County, Isfahan Province, Iran"
+  }
+ },
+ "tabriz": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Tabriz",
+   "lat": 38.06666667,
+   "lon": 46.3,
+   "url": "https://en.wikipedia.org/wiki/Tabriz"
+  },
+  "osm": {
+   "query": "Tabriz, Iran",
+   "lat": 38.0738612,
+   "lon": 46.2978789,
+   "display_name": "Tabriz, بخش مرکزی شهرستان تبریز, Tabriz County, East Azerbaijan Province, Iran"
+  }
+ },
+ "mashhad": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Mashhad",
+   "lat": 36.32638889,
+   "lon": 59.54333333,
+   "url": "https://en.wikipedia.org/wiki/Mashhad"
+  },
+  "osm": {
+   "query": "Mashhad, Iran",
+   "lat": 36.2974945,
+   "lon": 59.6059232,
+   "display_name": "Mashhad, بخش مرکزی شهرستان مشهد, Mashhad County, Razavi Khorasan, Iran"
+  }
+ },
+ "shiraz": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Shiraz",
+   "lat": 29.61,
+   "lon": 52.5425,
+   "url": "https://en.wikipedia.org/wiki/Shiraz"
+  },
+  "osm": {
+   "query": "Shiraz, Iran",
+   "lat": 29.6060218,
+   "lon": 52.5378041,
+   "display_name": "Shiraz, Shiraz Central District, Shiraz County, Fars Province, Iran"
+  }
+ },
+ "qom": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Qom",
+   "lat": 34.64,
+   "lon": 50.87638889,
+   "url": "https://en.wikipedia.org/wiki/Qom"
+  },
+  "osm": {
+   "query": "Qom, Iran",
+   "lat": 34.6422939,
+   "lon": 50.8801184,
+   "display_name": "Qom, Qom Central District, Qom County, Qom Province, Iran"
+  }
+ },
+ "bandar-abbas": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Bandar Abbas",
+   "lat": 27.19611111,
+   "lon": 56.28777778,
+   "url": "https://en.wikipedia.org/wiki/Bandar_Abbas"
+  },
+  "osm": {
+   "query": "Bandar Abbas, Iran",
+   "lat": 27.1842023,
+   "lon": 56.2892533,
+   "display_name": "Bandar Abbas, بخش مرکزی شهرستان بندرعباس, Bandar-e-Abbas County, Hormozgan Province, Iran"
+  }
+ },
+ "fordow": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Fordow Uranium Enrichment Plant",
+   "lat": 34.8845,
+   "lon": 50.9981,
+   "url": "https://en.wikipedia.org/wiki/Fordow_Uranium_Enrichment_Plant"
+  },
+  "osm": {
+   "query": "Fordow, Qom Province, Iran",
+   "lat": 34.9460465,
+   "lon": 50.7409863,
+   "display_name": "Fordow: Underground Uranium Enrichment Facility, Qomrud RD, Qom Central District, Qom County, Qom Province, Iran"
+  }
+ },
+ "arak": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "IR-40",
+   "lat": 34.37341,
+   "lon": 49.24078,
+   "url": "https://en.wikipedia.org/wiki/IR-40"
+  },
+  "osm": {
+   "query": "Khondab, Markazi Province, Iran",
+   "lat": 34.3933112,
+   "lon": 49.1840004,
+   "display_name": "Khondab, بخش مرکزی, Khondab County, Markazi Province, Iran"
+  }
+ },
+ "parchin": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Parchin",
+   "lat": 35.52722222,
+   "lon": 51.77777778,
+   "url": "https://en.wikipedia.org/wiki/Parchin"
+  },
+  "osm": {
+   "query": "Parchin, Tehran Province, Iran",
+   "lat": 35.5121129,
+   "lon": 51.7774121,
+   "display_name": "Parchin, Hamamak, حصارامیر, Pakdasht Central District, Pakdasht County, Tehran Province, Iran"
+  }
+ },
+ "kharg-island": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Kharg Island",
+   "lat": 29.245,
+   "lon": 50.31,
+   "url": "https://en.wikipedia.org/wiki/Kharg_Island"
+  },
+  "osm": {
+   "query": "Kharg Island, Iran",
+   "lat": 29.2405943,
+   "lon": 50.3117293,
+   "display_name": "Khark Island, جزیره خارک, بخش خارگ, Bushehr County, Bushehr Province, Iran"
+  }
+ },
+ "chabahar": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Chabahar",
+   "lat": 25.29277778,
+   "lon": 60.64972222,
+   "url": "https://en.wikipedia.org/wiki/Chabahar"
+  },
+  "osm": {
+   "query": "Chabahar, Iran",
+   "lat": 25.2935488,
+   "lon": 60.6469115,
+   "display_name": "Chabahar, Central District, Chabahar County, Sistan and Baluchestan Province, 99717-66738, Iran"
+  }
+ },
+ "strait-of-hormuz": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Strait of Hormuz",
+   "lat": 26.6,
+   "lon": 56.5,
+   "url": "https://en.wikipedia.org/wiki/Strait_of_Hormuz"
+  }
+ },
+ "persian-gulf": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Persian Gulf",
+   "lat": 26,
+   "lon": 52,
+   "url": "https://en.wikipedia.org/wiki/Persian_Gulf"
+  }
+ },
+ "gulf-of-oman": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Gulf of Oman",
+   "lat": 25,
+   "lon": 58,
+   "url": "https://en.wikipedia.org/wiki/Gulf_of_Oman"
+  }
+ },
+ "caspian-sea": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Caspian Sea",
+   "lat": 42,
+   "lon": 50.5,
+   "url": "https://en.wikipedia.org/wiki/Caspian_Sea"
+  }
+ },
+ "red-sea": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Red Sea",
+   "lat": 22,
+   "lon": 38,
+   "url": "https://en.wikipedia.org/wiki/Red_Sea"
+  }
+ },
+ "arabian-sea": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Arabian Sea",
+   "lat": 14,
+   "lon": 65,
+   "url": "https://en.wikipedia.org/wiki/Arabian_Sea"
+  }
+ },
+ "bab-al-mandab": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Bab al-Mandab Strait",
+   "lat": 12.58333333,
+   "lon": 43.33333333,
+   "url": "https://en.wikipedia.org/wiki/Bab_al-Mandab_Strait"
+  }
+ },
+ "suez-canal": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Suez Canal",
+   "lat": 30.705,
+   "lon": 32.34416667,
+   "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+  },
+  "osm": {
+   "query": "Suez Canal, Egypt",
+   "lat": 30.6052767,
+   "lon": 32.3331003,
+   "display_name": "Suez Canal, Al Ismailiya, Egypt"
+  }
+ },
+ "mediterranean-sea": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Mediterranean Sea",
+   "lat": 35,
+   "lon": 18,
+   "url": "https://en.wikipedia.org/wiki/Mediterranean_Sea"
+  }
+ },
+ "black-sea": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Black Sea",
+   "lat": 44,
+   "lon": 35,
+   "url": "https://en.wikipedia.org/wiki/Black_Sea"
+  }
+ },
+ "al-udeid": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Al Udeid Air Base",
+   "lat": 25.11861111,
+   "lon": 51.31861111,
+   "url": "https://en.wikipedia.org/wiki/Al_Udeid_Air_Base"
+  },
+  "osm": {
+   "query": "Al Udeid Air Base, Qatar",
+   "lat": 25.1173171,
+   "lon": 51.3221836,
+   "display_name": "Al Udeid Air Base, Al Rayyan, Qatar"
+  }
+ },
+ "al-asad": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Al-Asad Airbase",
+   "lat": 33.8,
+   "lon": 42.43333333,
+   "url": "https://en.wikipedia.org/wiki/Al-Asad_Airbase"
+  },
+  "osm": {
+   "query": "Al Asad Airbase, Iraq",
+   "lat": 33.7984496,
+   "lon": 42.4372455,
+   "display_name": "Ayn Al Asad Airbase, Al-Baghdadi Subdistrict, Hit District, Al-Anbar Governorate, 31009, Iraq"
+  }
+ },
+ "al-dhafra": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Al Dhafra Air Base",
+   "lat": 24.24,
+   "lon": 54.54833333,
+   "url": "https://en.wikipedia.org/wiki/Al_Dhafra_Air_Base"
+  },
+  "osm": {
+   "query": "Al Dhafra Air Base, United Arab Emirates",
+   "lat": 24.2386078,
+   "lon": 54.552172,
+   "display_name": "Al Dhafra Air Base, Al Lujayn Street, Jarn Yafour, Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates"
+  }
+ },
+ "prince-sultan": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Prince Sultan Air Base",
+   "lat": 24.05527778,
+   "lon": 47.56361111,
+   "url": "https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base"
+  },
+  "osm": {
+   "query": "Prince Sultan Air Base, Saudi Arabia",
+   "lat": 24.066252,
+   "lon": 47.5823882,
+   "display_name": "Prince Sultan Air Base, Al Kharj, Riyadh Region, Saudi Arabia"
+  }
+ },
+ "camp-arifjan": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Camp Arifjan",
+   "lat": 28.878,
+   "lon": 48.1579,
+   "url": "https://en.wikipedia.org/wiki/Camp_Arifjan"
+  },
+  "osm": {
+   "query": "Camp Arifjan, Kuwait",
+   "lat": 28.898956,
+   "lon": 48.1504607,
+   "display_name": "Camp Arifjan, Ahmadi Governorate, Kuwait"
+  }
+ },
+ "diego-garcia": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Diego Garcia",
+   "lat": -7.31333333,
+   "lon": 72.41111111,
+   "url": "https://en.wikipedia.org/wiki/Diego_Garcia"
+  }
+ },
+ "jerusalem": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Jerusalem",
+   "lat": 31.77888889,
+   "lon": 35.22555556,
+   "url": "https://en.wikipedia.org/wiki/Jerusalem"
+  },
+  "osm": {
+   "query": "Jerusalem",
+   "lat": 31.7788472,
+   "lon": 35.2257856,
+   "display_name": "Jerusalem, Jerusalem Subdistrict, Jerusalem District, Israel"
+  }
+ },
+ "tel-aviv": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Tel Aviv",
+   "lat": 32.08,
+   "lon": 34.78,
+   "url": "https://en.wikipedia.org/wiki/Tel_Aviv"
+  },
+  "osm": {
+   "query": "Tel Aviv, Israel",
+   "lat": 32.0852997,
+   "lon": 34.7818064,
+   "display_name": "Tel-Aviv, Tel Aviv Subdistrict, Tel-Aviv District, Israel"
+  }
+ },
+ "gaza-city": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Gaza City",
+   "lat": 31.5075,
+   "lon": 34.45972222,
+   "url": "https://en.wikipedia.org/wiki/Gaza_City"
+  },
+  "osm": {
+   "query": "Gaza City",
+   "lat": 31.5128679,
+   "lon": 34.4581358,
+   "display_name": "Gaza, Gaza Governorate, Palestinian Territories"
+  }
+ },
+ "beirut": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Beirut",
+   "lat": 33.89805556,
+   "lon": 35.50583333,
+   "url": "https://en.wikipedia.org/wiki/Beirut"
+  },
+  "osm": {
+   "query": "Beirut, Lebanon",
+   "lat": 33.8892265,
+   "lon": 35.5025585,
+   "display_name": "Beirut, Basta Tahta, Bashura, Beirut Governorate, Lebanon"
+  }
+ },
+ "bekaa-valley": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Beqaa Valley",
+   "lat": 34.00888889,
+   "lon": 36.14527778,
+   "url": "https://en.wikipedia.org/wiki/Beqaa_Valley"
+  },
+  "osm": {
+   "query": "Baalbek, Lebanon",
+   "lat": 34.009653,
+   "lon": 36.2117096,
+   "display_name": "Baalbek, Baalbek District, Baalbek-Hermel Governorate, 1800, Lebanon"
+  }
+ },
+ "damascus": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Damascus",
+   "lat": 33.51305556,
+   "lon": 36.30944444,
+   "url": "https://en.wikipedia.org/wiki/Damascus"
+  },
+  "osm": {
+   "query": "Damascus, Syria",
+   "lat": 33.5130695,
+   "lon": 36.3095814,
+   "display_name": "Damascus, Ancient City of Damascus Municipality, Damascus Subdistrict, Damascus District, Damascus Governorate, Syria"
+  }
+ },
+ "baghdad": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Baghdad",
+   "lat": 33.31527778,
+   "lon": 44.36611111,
+   "url": "https://en.wikipedia.org/wiki/Baghdad"
+  },
+  "osm": {
+   "query": "Baghdad, Iraq",
+   "lat": 33.3061701,
+   "lon": 44.3872213,
+   "display_name": "Baghdad, Green Zone Municipality, Zawra District, Baghdad Governorate, Iraq"
+  }
+ },
+ "jurf-al-sakhar": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Jurf al-Sakhar",
+   "lat": 32.86666667,
+   "lon": 44.21388889,
+   "url": "https://en.wikipedia.org/wiki/Jurf_al-Sakhar"
+  },
+  "osm": {
+   "query": "Jurf al-Sakhar, Iraq",
+   "lat": 32.8681523,
+   "lon": 44.2159436,
+   "display_name": "Jurf Al Sakhar Subdistrict, Al-Musayyib District, Babil Governorate, 51006, Iraq"
+  }
+ },
+ "sanaa": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Sanaa",
+   "lat": 15.34833333,
+   "lon": 44.20638889,
+   "url": "https://en.wikipedia.org/wiki/Sanaa"
+  },
+  "osm": {
+   "query": "Sanaa, Yemen",
+   "lat": 15.35,
+   "lon": 44.2,
+   "display_name": "Amanat Al Asimah, Yemen"
+  }
+ },
+ "riyadh": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Riyadh",
+   "lat": 24.6383,
+   "lon": 46.715,
+   "url": "https://en.wikipedia.org/wiki/Riyadh"
+  },
+  "osm": {
+   "query": "Riyadh, Saudi Arabia",
+   "lat": 24.638916,
+   "lon": 46.7160104,
+   "display_name": "Riyadh, Riyadh governorate, Riyadh Region, 12643, Saudi Arabia"
+  }
+ },
+ "yanbu": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Yanbu",
+   "lat": 24.08944444,
+   "lon": 38.06194444,
+   "url": "https://en.wikipedia.org/wiki/Yanbu"
+  },
+  "osm": {
+   "query": "Yanbu, Saudi Arabia",
+   "lat": 24.089019,
+   "lon": 38.0687076,
+   "display_name": "Yanbu`, Yanbu, Medina Province, 46424, Saudi Arabia"
+  }
+ },
+ "doha": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Doha",
+   "lat": 25.28666667,
+   "lon": 51.53333333,
+   "url": "https://en.wikipedia.org/wiki/Doha"
+  },
+  "osm": {
+   "query": "Doha, Qatar",
+   "lat": 25.3108807,
+   "lon": 51.5081812,
+   "display_name": "Doha, Qatar"
+  }
+ },
+ "manama": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Manama",
+   "lat": 26.22333333,
+   "lon": 50.5875,
+   "url": "https://en.wikipedia.org/wiki/Manama"
+  },
+  "osm": {
+   "query": "Manama, Bahrain",
+   "lat": 26.2235041,
+   "lon": 50.5822436,
+   "display_name": "Manama, Capital Governorate, 308, Bahrain"
+  }
+ },
+ "abu-dhabi": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Abu Dhabi",
+   "lat": 24.46666667,
+   "lon": 54.36666667,
+   "url": "https://en.wikipedia.org/wiki/Abu_Dhabi"
+  },
+  "osm": {
+   "query": "Abu Dhabi, United Arab Emirates",
+   "lat": 24.4538352,
+   "lon": 54.3774014,
+   "display_name": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates"
+  }
+ },
+ "kuwait-city": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Kuwait City",
+   "lat": 29.36972222,
+   "lon": 47.97833333,
+   "url": "https://en.wikipedia.org/wiki/Kuwait_City"
+  },
+  "osm": {
+   "query": "Kuwait City, Kuwait",
+   "lat": 29.3796532,
+   "lon": 47.9734174,
+   "display_name": "Kuwait City, Qibla, Capital Governorate, 15005, Kuwait"
+  }
+ },
+ "muscat": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Muscat",
+   "lat": 23.58888889,
+   "lon": 58.40833333,
+   "url": "https://en.wikipedia.org/wiki/Muscat"
+  },
+  "osm": {
+   "query": "Muscat, Oman",
+   "lat": 23.6123628,
+   "lon": 58.5938134,
+   "display_name": "Muscat, Muscat Province, Muscat Governorate, Oman"
+  }
+ },
+ "islamabad": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Islamabad",
+   "lat": 33.69305556,
+   "lon": 73.06388889,
+   "url": "https://en.wikipedia.org/wiki/Islamabad"
+  },
+  "osm": {
+   "query": "Islamabad, Pakistan",
+   "lat": 33.6938118,
+   "lon": 73.0651511,
+   "display_name": "Islamabad, Zone 1, Islamabad Capital Territory, 44000, Pakistan"
+  }
+ },
+ "kabul": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Kabul",
+   "lat": 34.52527778,
+   "lon": 69.17833333,
+   "url": "https://en.wikipedia.org/wiki/Kabul"
+  },
+  "osm": {
+   "query": "Kabul, Afghanistan",
+   "lat": 34.5269503,
+   "lon": 69.1850584,
+   "display_name": "Kabul, Kabul District, Kabul Province, 1001, Afghanistan"
+  }
+ },
+ "ankara": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Ankara",
+   "lat": 39.92888889,
+   "lon": 32.85472222,
+   "url": "https://en.wikipedia.org/wiki/Ankara"
+  },
+  "osm": {
+   "query": "Ankara, Turkey",
+   "lat": 39.9207759,
+   "lon": 32.8540497,
+   "display_name": "Ankara, Çankaya, Ankara, Central Anatolia Region, 06420, Turkey"
+  }
+ },
+ "cairo": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Cairo",
+   "lat": 30.04444444,
+   "lon": 31.23583333,
+   "url": "https://en.wikipedia.org/wiki/Cairo"
+  },
+  "osm": {
+   "query": "Cairo, Egypt",
+   "lat": 30.0443879,
+   "lon": 31.2357257,
+   "display_name": "Cairo, Egypt"
+  }
+ },
+ "washington": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Washington, D.C.",
+   "lat": 38.90472222,
+   "lon": -77.01638889,
+   "url": "https://en.wikipedia.org/wiki/Washington%2C_D.C."
+  },
+  "osm": {
+   "query": "Washington, District of Columbia",
+   "lat": 38.8950982,
+   "lon": -77.0363849,
+   "display_name": "Washington, District of Columbia, United States"
+  }
+ },
+ "corpus-christi": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Corpus Christi, Texas",
+   "lat": 27.74277778,
+   "lon": -97.40194444,
+   "url": "https://en.wikipedia.org/wiki/Corpus_Christi%2C_Texas"
+  },
+  "osm": {
+   "query": "Corpus Christi, Texas",
+   "lat": 27.7635302,
+   "lon": -97.4033191,
+   "display_name": "Corpus Christi, Nueces County, Texas, United States"
+  }
+ },
+ "caracas": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Caracas",
+   "lat": 10.50611111,
+   "lon": -66.91444444,
+   "url": "https://en.wikipedia.org/wiki/Caracas"
+  },
+  "osm": {
+   "query": "Caracas, Venezuela",
+   "lat": 10.5060934,
+   "lon": -66.9146008,
+   "display_name": "Caracas, Parroquia Catedral, Municipio Libertador, Caracas Metropolitan District, Capital District, Venezuela"
+  }
+ },
+ "moscow": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Moscow",
+   "lat": 55.75583333,
+   "lon": 37.61777778,
+   "url": "https://en.wikipedia.org/wiki/Moscow"
+  },
+  "osm": {
+   "query": "Moscow, Russia",
+   "lat": 55.625578,
+   "lon": 37.6063916,
+   "display_name": "Moscow, Central Federal District, Russia"
+  }
+ },
+ "kyiv": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Kyiv",
+   "lat": 50.45,
+   "lon": 30.52333333,
+   "url": "https://en.wikipedia.org/wiki/Kyiv"
+  },
+  "osm": {
+   "query": "Kyiv, Ukraine",
+   "lat": 50.4500336,
+   "lon": 30.5241361,
+   "display_name": "Kyiv, Ukraine"
+  }
+ },
+ "vienna": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Vienna",
+   "lat": 48.2083,
+   "lon": 16.3725,
+   "url": "https://en.wikipedia.org/wiki/Vienna"
+  },
+  "osm": {
+   "query": "Vienna, Austria",
+   "lat": 48.2083537,
+   "lon": 16.3725042,
+   "display_name": "Vienna, Austria"
+  }
+ },
+ "london": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "London",
+   "lat": 51.50722222,
+   "lon": -0.1275,
+   "url": "https://en.wikipedia.org/wiki/London"
+  },
+  "osm": {
+   "query": "London, United Kingdom",
+   "lat": 51.5074456,
+   "lon": -0.1277653,
+   "display_name": "Greater London, England, United Kingdom"
+  }
+ },
+ "beijing": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Beijing",
+   "lat": 39.90666667,
+   "lon": 116.3975,
+   "url": "https://en.wikipedia.org/wiki/Beijing"
+  },
+  "osm": {
+   "query": "Beijing, China",
+   "lat": 39.9057136,
+   "lon": 116.3912972,
+   "display_name": "Beijing, China"
+  }
+ },
+ "hong-kong": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Hong Kong",
+   "lat": 22.3,
+   "lon": 114.2,
+   "url": "https://en.wikipedia.org/wiki/Hong_Kong"
+  },
+  "osm": {
+   "query": "Hong Kong",
+   "lat": 22.3492361,
+   "lon": 114.1857778,
+   "display_name": "Hong Kong, China"
+  }
+ },
+ "taipei": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Taipei",
+   "lat": 25.0375,
+   "lon": 121.5625,
+   "url": "https://en.wikipedia.org/wiki/Taipei"
+  },
+  "osm": {
+   "query": "Taipei, Taiwan",
+   "lat": 25.0375198,
+   "lon": 121.5636796,
+   "display_name": "Taipei, Taiwan"
+  }
+ },
+ "taiwan-strait": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Taiwan Strait",
+   "lat": 24.81111111,
+   "lon": 119.92833333,
+   "url": "https://en.wikipedia.org/wiki/Taiwan_Strait"
+  }
+ },
+ "tokyo": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Tokyo",
+   "lat": 35.68972222,
+   "lon": 139.69222222,
+   "url": "https://en.wikipedia.org/wiki/Tokyo"
+  },
+  "osm": {
+   "query": "Tokyo, Japan",
+   "lat": 35.6768601,
+   "lon": 139.7638947,
+   "display_name": "Tokyo, Japan"
+  }
+ },
+ "seoul": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Seoul",
+   "lat": 37.56,
+   "lon": 126.99,
+   "url": "https://en.wikipedia.org/wiki/Seoul"
+  },
+  "osm": {
+   "query": "Seoul, South Korea",
+   "lat": 37.5666791,
+   "lon": 126.9782914,
+   "display_name": "Seoul, South Korea"
+  }
+ },
+ "pyongyang": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Pyongyang",
+   "lat": 39.01666667,
+   "lon": 125.7475,
+   "url": "https://en.wikipedia.org/wiki/Pyongyang"
+  },
+  "osm": {
+   "query": "Pyongyang, North Korea",
+   "lat": 39.0196585,
+   "lon": 125.7526222,
+   "display_name": "P'yŏngyang, North Korea"
+  }
+ },
+ "sea-of-japan": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Sea of Japan",
+   "lat": 40,
+   "lon": 135,
+   "url": "https://en.wikipedia.org/wiki/Sea_of_Japan"
+  }
+ },
+ "manila": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Manila",
+   "lat": 14.5958,
+   "lon": 120.9772,
+   "url": "https://en.wikipedia.org/wiki/Manila"
+  },
+  "osm": {
+   "query": "Manila, Philippines",
+   "lat": 14.5904492,
+   "lon": 120.9803621,
+   "display_name": "Manila, Capital District, Metro Manila, Philippines"
+  }
+ },
+ "scarborough-shoal": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Scarborough Shoal",
+   "lat": 15.18333333,
+   "lon": 117.76666667,
+   "url": "https://en.wikipedia.org/wiki/Scarborough_Shoal"
+  }
+ },
+ "south-china-sea": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "South China Sea",
+   "lat": 12,
+   "lon": 113,
+   "url": "https://en.wikipedia.org/wiki/South_China_Sea"
+  }
+ },
+ "jakarta": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Jakarta",
+   "lat": -6.18,
+   "lon": 106.83,
+   "url": "https://en.wikipedia.org/wiki/Jakarta"
+  },
+  "osm": {
+   "query": "Jakarta, Indonesia",
+   "lat": -6.1754049,
+   "lon": 106.827168,
+   "display_name": "Special Capital Region of Jakarta, Indonesia"
+  }
+ },
+ "new-delhi": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "New Delhi",
+   "lat": 28.6139,
+   "lon": 77.2089,
+   "url": "https://en.wikipedia.org/wiki/New_Delhi"
+  },
+  "osm": {
+   "query": "New Delhi, India",
+   "lat": 28.6138954,
+   "lon": 77.2090057,
+   "display_name": "New Delhi, Delhi, India"
+  }
+ },
+ "khartoum": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Khartoum",
+   "lat": 15.6,
+   "lon": 32.5,
+   "url": "https://en.wikipedia.org/wiki/Khartoum"
+  },
+  "osm": {
+   "query": "Khartoum, Sudan",
+   "lat": 15.5635972,
+   "lon": 32.5349123,
+   "display_name": "Khartoum, Al Khartum State, Sudan"
+  }
+ },
+ "port-sudan": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Port Sudan",
+   "lat": 19.60194444,
+   "lon": 37.2075,
+   "url": "https://en.wikipedia.org/wiki/Port_Sudan"
+  },
+  "osm": {
+   "query": "Port Sudan, Sudan",
+   "lat": 19.619217,
+   "lon": 37.211709,
+   "display_name": "Port Sudan, Red Sea State, 79800, Sudan"
+  }
+ },
+ "el-obeid": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "El Obeid",
+   "lat": 13.18333333,
+   "lon": 30.21666667,
+   "url": "https://en.wikipedia.org/wiki/El_Obeid"
+  },
+  "osm": {
+   "query": "El Obeid, Sudan",
+   "lat": 13.183366,
+   "lon": 30.222559,
+   "display_name": "El-Obeid, Sheikan, North Kordufan, Sudan"
+  }
+ },
+ "el-fasher": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "El Fasher",
+   "lat": 13.63055556,
+   "lon": 25.35,
+   "url": "https://en.wikipedia.org/wiki/El_Fasher"
+  },
+  "osm": {
+   "query": "El Fasher, Sudan",
+   "lat": 13.6238244,
+   "lon": 25.3555559,
+   "display_name": "Al-Fashir, Al Fasher - الفاشر, North Darfur, Sudan"
+  }
+ },
+ "addis-ababa": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Addis Ababa",
+   "lat": 9.03583333,
+   "lon": 38.7525,
+   "url": "https://en.wikipedia.org/wiki/Addis_Ababa"
+  },
+  "osm": {
+   "query": "Addis Ababa, Ethiopia",
+   "lat": 9,
+   "lon": 38.75,
+   "display_name": "Addis Ababa, Ethiopia"
+  }
+ },
+ "mekelle": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Mekelle",
+   "lat": 13.49694444,
+   "lon": 39.47694444,
+   "url": "https://en.wikipedia.org/wiki/Mekelle"
+  },
+  "osm": {
+   "query": "Mekelle, Ethiopia",
+   "lat": 13.4966644,
+   "lon": 39.4768259,
+   "display_name": "Mek'elē, Tigray, Ethiopia"
+  }
+ },
+ "asmara": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Asmara",
+   "lat": 15.33583333,
+   "lon": 38.94111111,
+   "url": "https://en.wikipedia.org/wiki/Asmara"
+  },
+  "osm": {
+   "query": "Asmara, Eritrea",
+   "lat": 15.3389667,
+   "lon": 38.9326763,
+   "display_name": "Asmara, Maekel Region, Eritrea"
+  }
+ },
+ "zalambessa": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Zalambessa",
+   "lat": 14.52583333,
+   "lon": 39.38583333,
+   "url": "https://en.wikipedia.org/wiki/Zalambessa"
+  },
+  "osm": {
+   "query": "Zalambessa, Ethiopia",
+   "lat": 14.5256362,
+   "lon": 39.3870998,
+   "display_name": "Zalambessa, Eastern Tigray, Tigray, Ethiopia"
+  }
+ },
+ "bamako": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Bamako",
+   "lat": 12.63916667,
+   "lon": -8.00277778,
+   "url": "https://en.wikipedia.org/wiki/Bamako"
+  },
+  "osm": {
+   "query": "Bamako, Mali",
+   "lat": 12.6132656,
+   "lon": -7.9849887,
+   "display_name": "Bamako, Kati Cercle, Koulikoro, Mali"
+  }
+ },
+ "bushehr": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Bushehr Nuclear Power Plant",
+   "lat": 28.82962222,
+   "lon": 50.88596111,
+   "url": "https://en.wikipedia.org/wiki/Bushehr_Nuclear_Power_Plant"
+  },
+  "osm": {
+   "query": "Bushehr Nuclear Power Plant",
+   "lat": 28.82926,
+   "lon": 50.884364,
+   "display_name": "Bushehr Nuclear Power Plant, هلیله, دهستان حومه بوشهر, Bakhsh-e-Markazi of Bushehr County, Bushehr County, Bushehr Province, Iran"
+  }
+ },
+ "natanz": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Natanz Nuclear Facility",
+   "lat": 33.725,
+   "lon": 51.725,
+   "url": "https://en.wikipedia.org/wiki/Natanz_Nuclear_Facility"
+  },
+  "osm": {
+   "query": "Natanz enrichment",
+   "lat": 33.7251062,
+   "lon": 51.7241794,
+   "display_name": "Shahid Ahmadi Roshan Nuclear Facilities, ده زیره, Khorram Dasht RD, Kashan Central District, Kashan County, Isfahan Province, Iran"
+  }
+ },
+ "qeshm-island": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Qeshm Island",
+   "lat": 26.7675,
+   "lon": 55.7725,
+   "url": "https://en.wikipedia.org/wiki/Qeshm_Island"
+  },
+  "osm": {
+   "query": "Qeshm Island",
+   "lat": 26.7687296,
+   "lon": 55.8476653,
+   "display_name": "Qeshm Island, Hormozgan Province, Iran"
+  }
+ },
+ "nsa-bahrain": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "error": "article has no coordinates",
+   "title": "Naval Support Activity Bahrain"
+  },
+  "osm": {
+   "query": "Naval Support Activity Bahrain, Manama",
+   "lat": 26.2082406,
+   "lon": 50.6109463,
+   "display_name": "Naval Support Activity Bahrain, Juffair Avenue, Al Fatih, Manama, Capital Governorate, 324, Bahrain"
+  }
+ },
+ "rafah": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Rafah",
+   "lat": 31.2725,
+   "lon": 34.25861111,
+   "url": "https://en.wikipedia.org/wiki/Rafah"
+  },
+  "osm": {
+   "error": "no result"
+  }
+ },
+ "crimean-bridge": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "error": "article has no coordinates",
+   "title": "Crimean Bridge"
+  },
+  "osm": {
+   "query": "Crimean Bridge",
+   "lat": 45.2786281,
+   "lon": 36.5392518,
+   "display_name": "Crimean Bridge, А-290, Autonomous Republic of Crimea, Ukraine"
+  }
+ },
+ "al-khuway": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "error": "no such article"
+  },
+  "osm": {
+   "query": "Al Khuwayy, Sudan",
+   "lat": 13.0843153,
+   "lon": 29.2167463,
+   "display_name": "Khuwayy, Al Khiwai - الخوي, West Kordufan, Sudan"
+  }
+ },
+ "kidal": {
+  "fetched": "2026-11-16",
+  "wikipedia": {
+   "title": "Kidal",
+   "lat": 18.43888889,
+   "lon": 1.40833333,
+   "url": "https://en.wikipedia.org/wiki/Kidal"
+  },
+  "osm": {
+   "query": "Kidal, Kidal Cercle, Mali",
+   "lat": 18.4408358,
+   "lon": 1.4075395,
+   "display_name": "Kidal, Kidal Cercle, Kidal, Mali"
+  }
+ }
+}

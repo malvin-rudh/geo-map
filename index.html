@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Geo Map: what is going on in the world</title>
+<meta name="description" content="An interactive map of current world events, with every arrow linked to its sources.">
+<meta name="color-scheme" content="dark">
+<link rel="preload" href="vendor/fonts/ibm-plex-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="vendor/fonts/newsreader-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <svg id="map" role="img" aria-label="World map with arrows showing current events between places">
+    <g id="grid"></g>
+    <g id="land"></g>
+    <g id="arrows"></g>
+    <g id="places"></g>
+    <g id="labels"></g>
+  </svg>
+
+  <header id="topbar">
+    <div class="title">
+      <h1>What is going on in the world</h1>
+      <span id="updated">Last updated</span>
+    </div>
+    <div class="search">
+      <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="7" cy="7" r="5"/><path d="M11 11l3.5 3.5"/></svg>
+      <input id="search" type="search" placeholder="Search a country or city" autocomplete="off" aria-label="Search a country or city">
+      <ul id="results" hidden></ul>
+    </div>
+    <div class="views" role="group" aria-label="Map view">
+      <button class="chip" data-view="world" aria-pressed="true">World</button>
+      <button class="chip" data-view="mideast" aria-pressed="false">Middle East</button>
+      <button class="chip" data-view="iran" aria-pressed="false">Iran</button>
+    </div>
+  </header>
+
+  <div id="filters">
+    <div class="chips" id="type-filters" role="group" aria-label="Filter by type of arrow"></div>
+    <select id="region-filter" aria-label="Filter by region"></select>
+  </div>
+
+  <aside id="top" aria-label="Top events">
+    <button id="top-toggle" aria-expanded="true"><span class="label">Top events right now</span><span id="top-caret" aria-hidden="true"></span></button>
+    <div id="top-body">
+      <p class="sub" id="top-sub"></p>
+      <ol id="top-list"></ol>
+      <button class="btn secondary small" id="show-all" hidden>Show all arrows</button>
+    </div>
+  </aside>
+
+  <aside id="card" hidden aria-live="polite">
+    <button id="card-close" aria-label="Close">Close</button>
+    <div id="card-body"></div>
+  </aside>
+
+  <div id="legend">
+    <button id="legend-toggle" aria-expanded="true"><span class="label">Legend</span><span class="hint">Show</span></button>
+    <div id="legend-body"></div>
+  </div>
+
+  <div id="tooltip" hidden></div>
+
+  <div id="brand">
+    <span class="name">Geo Map</span>
+    <button id="about-toggle" aria-expanded="false" aria-controls="about">About</button>
+  </div>
+  <section id="about" hidden aria-label="About this map">
+    <h2>About Geo Map</h2>
+    <p>Each event is a short summary written from the sources linked on its card, as of the last updated date. It may be out of date or wrong: check the sources before you rely on it.</p>
+    <p>Borders follow Natural Earth's default view. They are a drawing convention, not a position on any dispute.</p>
+    <p>For learning and orientation only. Not advice of any kind.</p>
+  </section>
+</div>
+<script src="vendor/d3.min.js"></script>
+<script src="vendor/topojson-client.min.js"></script>
+<script src="src/app.js"></script>
+</body>
+</html>
