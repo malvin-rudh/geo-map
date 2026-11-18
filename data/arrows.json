@@ -555,12 +555,24 @@
   "from": "kyiv",
   "to": "crimean-bridge",
   "type": "military",
-  "label": "Drone strike on bridge, refineries",
+  "label": "Drone and missile strike on Crimean bridge",
   "who": "Ukraine against Russian infrastructure",
-  "what": "Russia says Ukraine sent its biggest overnight drone wave of the war on 16 November, hitting a Crimea bridge and oil sites. Russia's ministry says it downed 1,336 drones.",
-  "when": "Night of 15 to 16 November 2026",
-  "why": "Fuel and transport links support Russia's war effort; Moscow says damage was limited.",
+  "what": "Zelensky says Ukraine hit the Crimean bridge in a multi-week operation. Russia's ministry says it downed 1,441 drones overnight. Moscow-appointed officials say traffic stopped.",
+  "when": "Nights of 15 to 17 November 2026",
+  "why": "The bridge is a main supply link to Crimea; the Kremlin says it will be repaired.",
   "sources": [
+   {
+    "url": "https://abcnews.com/International/ukraine-attacks-crimean-bridge-2nd-consecutive-night-officials/story?id=138201512",
+    "publisher": "ABC News",
+    "title": "Ukraine attacks Crimean bridge for 2nd consecutive night",
+    "published": "2026-11-17"
+   },
+   {
+    "url": "https://themoscowtimes.com/2026/11/17/ukraine-strikes-crimean-bridge-for-second-day-as-russia-pounds-kyiv-bridges-a94281",
+    "publisher": "The Moscow Times",
+    "title": "Ukraine Strikes Crimean Bridge for Second Day as Russia Pounds Kyiv Bridges",
+    "published": "2026-11-17"
+   },
    {
     "url": "https://nbcnews.com/world/ukraine/ukraine-launches-biggest-drone-attack-russia-war-began-rcna609555",
     "publisher": "Reuters (via NBC News)",

@@ -555,19 +555,31 @@
   "id": "russia-ukraine-war",
   "hotspot": "Russia and Ukraine",
   "region": "Europe",
-  "title": "Russia reports its biggest overnight Ukrainian drone attack; talks stall",
+  "title": "Ukraine hits Crimean bridge again amid record drone raids",
   "summary": [
-   "Russia says Ukraine launched its biggest overnight drone attack of the war on 16 November.",
-   "US-mediated talks in Abu Dhabi on 10 and 11 November were the first in nine months.",
-   "Both sides agreed to a big prisoner swap, but not on territory. The front line is largely static."
+   "Ukraine struck the Crimean bridge for a second night on 17 November. Moscow-appointed officials say traffic was suspended.",
+   "Russia's defence ministry says it downed a record 1,441 Ukrainian drones. Russia hit Kyiv's two main bridges.",
+   "Talks in Abu Dhabi on 10 and 11 November agreed a prisoner swap, not territory."
   ],
   "why_it_matters": "Strikes on refineries and power networks hit energy supply, and talks have not moved the two sides closer on land or security.",
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "started": "2022-02",
-  "status": "talks",
-  "verified": false,
-  "verify_note": "The 16 November strike and its numbers rest on one wire report (Reuters via NBC) quoting Russia's defence ministry; no second report was found. The Abu Dhabi talks are reported by both Reuters and AP.",
+  "status": "escalating",
+  "verified": true,
+  "verify_note": "The drone totals come from Russia's defence ministry and the damage claims from Ukraine and the bridge maker Fire Point; neither is independently confirmed.",
   "sources": [
+   {
+    "url": "https://abcnews.com/International/ukraine-attacks-crimean-bridge-2nd-consecutive-night-officials/story?id=138201512",
+    "publisher": "ABC News",
+    "title": "Ukraine attacks Crimean bridge for 2nd consecutive night",
+    "published": "2026-11-17"
+   },
+   {
+    "url": "https://themoscowtimes.com/2026/11/17/ukraine-strikes-crimean-bridge-for-second-day-as-russia-pounds-kyiv-bridges-a94281",
+    "publisher": "The Moscow Times",
+    "title": "Ukraine Strikes Crimean Bridge for Second Day as Russia Pounds Kyiv Bridges",
+    "published": "2026-11-17"
+   },
    {
     "url": "https://nbcnews.com/world/ukraine/ukraine-launches-biggest-drone-attack-russia-war-began-rcna609555",
     "publisher": "Reuters (via NBC News)",
