@@ -1123,5 +1123,29 @@
   "why": "Desert town in northern Mali, long a base of Tuareg rebels. Mali's army says it retook it on 6 October 2026.",
   "wiki": "Kidal",
   "osm": "Kidal, Kidal Cercle, Mali"
+ },
+ {
+  "id": "rudnik-nad-sanem",
+  "name": "Rudnik nad Sanem",
+  "country": "Poland",
+  "lat": 50.4439,
+  "lon": 22.2408,
+  "type": "city",
+  "tier": 3,
+  "why": "Town in southeast Poland near where Russian missiles fell on 20 November 2026.",
+  "wiki": "Rudnik nad Sanem",
+  "osm": "Rudnik nad Sanem, Poland"
+ },
+ {
+  "id": "berlin",
+  "name": "Berlin",
+  "country": "Germany",
+  "lat": 52.52,
+  "lon": 13.405,
+  "type": "capital",
+  "tier": 1,
+  "why": "Capital of Germany.",
+  "wiki": "Berlin",
+  "osm": "Berlin, Germany"
  }
 ]

@@ -1179,5 +1179,35 @@
    "lon": 1.4075395,
    "display_name": "Kidal, Kidal Cercle, Kidal, Mali"
   }
+ },
+ "rudnik-nad-sanem": {
+  "fetched": "2026-11-23",
+  "wikipedia": {
+   "title": "Rudnik nad Sanem",
+   "lat": 50.44388889,
+   "lon": 22.24083333,
+   "url": "https://en.wikipedia.org/wiki/Rudnik_nad_Sanem"
+  },
+  "osm": {
+   "query": "Rudnik nad Sanem, Poland",
+   "lat": 50.4447766,
+   "lon": 22.2440326,
+   "display_name": "Rudnik nad Sanem, gmina Rudnik nad Sanem, Nisko County, Subcarpathian Voivodeship, 37-420, Poland"
+  }
+ },
+ "berlin": {
+  "fetched": "2026-11-23",
+  "wikipedia": {
+   "title": "Berlin",
+   "lat": 52.52,
+   "lon": 13.405,
+   "url": "https://en.wikipedia.org/wiki/Berlin"
+  },
+  "osm": {
+   "query": "Berlin, Germany",
+   "lat": 52.5173885,
+   "lon": 13.3951309,
+   "display_name": "Berlin, Germany"
+  }
  }
 }
