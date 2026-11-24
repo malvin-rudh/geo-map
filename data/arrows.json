@@ -39,27 +39,21 @@
   "type": "military",
   "label": "Iran restricts the Strait of Hormuz",
   "who": "Iran's forces, against ships using the strait",
-  "what": "Iran's Guards say tankers hit mines in Hormuz. UKMTO logged six ship strikes in the week to 20 November but has not confirmed mines.",
-  "when": "Since February 2026, most recently 20 to 22 November 2026",
+  "what": "Iran says it will use all available means against the blockade. Its navy said on 23 November that three tankers hit mines; UKMTO had not confirmed mines earlier.",
+  "when": "Since February 2026, most recently 20 to 23 November 2026",
   "why": "It limits oil and gas shipping and gives Iran leverage in the talks.",
   "sources": [
    {
-    "url": "https://maritime-executive.com/article/reports-claim-iran-is-preparing-oil-convoy-to-test-u-s-blockade",
-    "publisher": "The Maritime Executive",
-    "title": "Reports Claim Iran Is Preparing Oil Convoy to Test U.S. Blockade",
-    "published": "2026-11-20"
-   },
-   {
-    "url": "https://www.iranintl.com/en/202611226299",
-    "publisher": "Iran International",
-    "title": "Trump threatens Iran strikes in new year, says blockade runners will be sunk",
-    "published": "2026-11-22"
-   },
-   {
-    "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+    "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
     "publisher": "Al Jazeera",
-    "title": "Bahrain says Iranian attack causes fire at industrial facility",
-    "published": "2026-11-21"
+    "title": "Iran says it will use 'all available means' to counter US blockade",
+    "published": "2026-11-23"
+   },
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "publisher": "CBS News",
+    "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+    "published": "2026-11-23"
    }
   ]
  },
@@ -239,10 +233,16 @@
   "type": "sanctions",
   "label": "Operation Economic Outcast sanctions",
   "who": "The US government is targeting firms that do business with Iran.",
-  "what": "Al Jazeera says the US launched the operation in late August to penalise companies trading with Iran, adding to the blockade and earlier sanctions.",
-  "when": "From late August 2026",
+  "what": "Al Jazeera says the US launched the operation in late August. CBS says the Treasury added about two dozen names on 23 November, including front companies and exchange houses.",
+  "when": "From late August 2026, latest 23 November 2026",
   "why": "The blockade already cost Iran at least 6 billion dollars in oil revenue, Al Jazeera reported in August.",
   "sources": [
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "publisher": "CBS News",
+    "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+    "published": "2026-11-23"
+   },
    {
     "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february",
     "publisher": "Al Jazeera",
@@ -263,23 +263,29 @@
   "from": "doha",
   "to": "washington",
   "type": "diplomacy",
-  "label": "Qatar PM carries Iran's proposal",
+  "label": "Qatar PM meets Rubio",
   "who": "Qatar's prime minister is acting as go-between for Iran and the US.",
-  "what": "Al Jazeera reports he met Trump and Vance around 9 November and reportedly presented Iran's two-day proposal to end the war.",
-  "when": "Around 9 November 2026",
+  "what": "CBS says Rubio met Qatar's prime minister, the chief mediator, in Washington on 23 November. No outcome was reported. He also met Trump around 9 November.",
+  "when": "Around 9 November and 23 November 2026",
   "why": "Al Jazeera says Qatar is one of several mediators between Washington and Tehran.",
   "sources": [
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "publisher": "CBS News",
+    "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+    "published": "2026-11-23"
+   },
+   {
+    "url": "https://www.semafor.com/article/11/23/2026/iran-signals-plans-to-challenge-the-us-naval-blockade",
+    "publisher": "Semafor",
+    "title": "Iran signals plans to challenge the US naval blockade",
+    "published": "2026-11-23"
+   },
    {
     "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
     "publisher": "Al Jazeera",
     "title": "After meeting Qatar PM, Trump calls Iran war 'effectively over' militarily",
     "published": "2026-11-09"
-   },
-   {
-    "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting",
-    "publisher": "Al Jazeera",
-    "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
-    "published": "2026-10-20"
    }
   ]
  },
@@ -312,9 +318,15 @@
   "label": "Houthi drone and missile attacks",
   "who": "Yemen's Houthis acting on Saudi Arabia",
   "what": "Houthis say they have hit Saudi oil sites, airports and bases almost daily since 7 November. Saudi officials report shrapnel damage to an Aramco building and a pipeline fire.",
-  "when": "Near daily since 7 November, latest 22 November 2026",
+  "when": "Near daily since 7 November, latest 21 to 22 November 2026",
   "why": "The attacks target Saudi oil sites while the Strait of Hormuz is already disrupted.",
   "sources": [
+   {
+    "url": "https://www.semafor.com/article/11/23/2026/iran-signals-plans-to-challenge-the-us-naval-blockade",
+    "publisher": "Semafor",
+    "title": "Iran signals plans to challenge the US naval blockade",
+    "published": "2026-11-23"
+   },
    {
     "url": "https://www.anews.com.tr/middle-east/2026/11/22/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia",
     "publisher": "Anadolu Agency (via A News)",
@@ -559,7 +571,7 @@
   "type": "military",
   "label": "Russian mass strike on Ukraine",
   "who": "Russia against Ukrainian cities",
-  "what": "Zelensky says Russia fired over 400 drones and 110 missiles on 20 November, killing at least eight people.",
+  "what": "Zelensky says Russia fired over 400 drones and 110 missiles on 20 November. Al Jazeera reports at least eight civilians were killed.",
   "when": "20 November 2026",
   "why": "Al Jazeera says it followed Putin's vow to retaliate for the Kerch bridge attacks.",
   "sources": [

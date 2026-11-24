@@ -6,16 +6,37 @@
   "title": "US blockade and Hormuz shipping standoff continue",
   "summary": [
    "The US blockade of Iranian ports continues, and Iran still restricts the Strait of Hormuz.",
-   "UKMTO counted six ship strikes in the week to 20 November, and more tanker hits on 21 November.",
-   "Iran says mines hit tankers. UKMTO has not confirmed mines."
+   "Iran says it will use all available means against the blockade, which it calls military aggression.",
+   "Iran's navy said on 23 November that three tankers hit mines in Hormuz. UKMTO had not confirmed mines earlier."
   ],
   "why_it_matters": "About one fifth of world oil normally passed the strait, so the standoff affects energy prices and shipping worldwide.",
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "started": "2026-02-28",
   "status": "active",
   "verified": true,
-  "verify_note": "Iran's mine claims and the JMIC count of seven tankers hit since 16 November (reported by Iran International) were not confirmed by UKMTO. Latest weekly transit count was not found.",
+  "verify_note": "Iran's mine claims, including three tankers on 23 November reported by CBS, were not confirmed by UKMTO. Latest weekly transit count was not found.",
   "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
+    "publisher": "Al Jazeera",
+    "title": "Iran says it will use 'all available means' to counter US blockade",
+    "published": "2026-11-23",
+    "supports": "Iran's foreign ministry calls the blockade military aggression and says it will use all available means."
+   },
+   {
+    "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat",
+    "publisher": "Euronews",
+    "title": "Iran vows 'every means' to counter US blockade of Hormuz after Trump threat",
+    "published": "2026-11-23",
+    "supports": "Iran vows every means after Trump said blockade runners would be sunk; officials say no concrete convoy plan."
+   },
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "publisher": "CBS News",
+    "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+    "published": "2026-11-23",
+    "supports": "Iran's navy says three tankers hit mines; Rubio met Qatar's PM; new Treasury sanctions; Saudi strikes on Hodeida."
+   },
    {
     "url": "https://www.iranintl.com/en/202611226299",
     "publisher": "Iran International",
@@ -194,16 +215,30 @@
   "title": "Iran's oil exports halted by blockade",
   "summary": [
    "Kpler says Iran loaded no crude in September or October. Reuters carried the data.",
-   "Kpler counts about 20 loaded tankers idle near Kharg Island, holding 43 million barrels. Windward counts more.",
-   "Iranian state-linked media hint tankers may try to run the blockade. Trump says runners would be sunk."
+   "Kpler counts about 20 loaded tankers idle near Kharg Island, holding 43 million barrels.",
+   "Iran's foreign ministry calls tanker loading reports speculation. Trump says blockade runners would be sunk."
   ],
   "why_it_matters": "Iran lost about 200 to 250 million dollars a day in oil revenue, Kpler estimates. That pressure explains talk of testing the blockade.",
-  "date": "2026-11-20",
+  "date": "2026-11-23",
   "started": "2026-04",
   "status": "active",
   "verified": true,
-  "verify_note": "Trackers differ: Bloomberg dated the Kharg halt to late August; Kpler reports no loadings in September or October. Kpler counts about 20 loaded tankers, Windward 31. A tanker run is unconfirmed: Fars says 14 are ready; TankerTrackers doubts it.",
+  "verify_note": "Trackers differ: Bloomberg dated the Kharg halt to late August; Kpler reports no loadings in September or October. Windward separately counts 31 laden sanctioned tankers near the blockade line in the Arabian Sea. A tanker run is unconfirmed: Tasnim says plans are being drawn up; officials say there is no concrete convoy plan.",
   "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade",
+    "publisher": "Al Jazeera",
+    "title": "Iran says it will use 'all available means' to counter US blockade",
+    "published": "2026-11-23",
+    "supports": "Iran's foreign ministry calls the blockade military aggression and says it will use all available means."
+   },
+   {
+    "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat",
+    "publisher": "Euronews",
+    "title": "Iran vows 'every means' to counter US blockade of Hormuz after Trump threat",
+    "published": "2026-11-23",
+    "supports": "Iran vows every means after Trump said blockade runners would be sunk; officials say no concrete convoy plan."
+   },
    {
     "url": "https://www.iranintl.com/en/202611226299",
     "publisher": "Iran International",
@@ -247,17 +282,31 @@
   "region": "Middle East",
   "title": "Mediated talks stall as Trump cools on a deal",
   "summary": [
-   "A Qatari delegation held about two hours of talks in Tehran on 20 November, Iran says.",
-   "Araghchi says discussing Hormuz's reopening is pointless until Iran's demands are met, state TV reported.",
-   "Trump says he is not rushing and wants a permanent deal. He leans toward strikes after New Year."
+   "Qatar's prime minister met Rubio in Washington on 23 November, after Qatari talks in Tehran.",
+   "Araghchi says the June memorandum is no longer valid but could guide a deal, Semafor reports.",
+   "Trump says he is not rushing and wants a permanent deal."
   ],
   "why_it_matters": "With talks stuck, the blockade and Hormuz restrictions stay in place and renewed strikes remain possible.",
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "started": "2026-04-08",
   "status": "talks",
   "verified": true,
-  "verify_note": "Iran gave no details of the Qatari talks. Trump's remarks on timing vary between interviews. CBS cites sources saying the US and Israel weigh a new assault; not confirmed officially.",
+  "verify_note": "No outcome of the Rubio meeting was reported. Iran gave no details of the Qatari talks in Tehran. Araghchi's remark on the memorandum rests on Semafor (23 November). Euronews reports Trump has called the Islamabad memorandum void; the sources do not say whether it is the same document.",
   "sources": [
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "publisher": "CBS News",
+    "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+    "published": "2026-11-23",
+    "supports": "Iran's navy says three tankers hit mines; Rubio met Qatar's PM; new Treasury sanctions; Saudi strikes on Hodeida."
+   },
+   {
+    "url": "https://www.semafor.com/article/11/23/2026/iran-signals-plans-to-challenge-the-us-naval-blockade",
+    "publisher": "Semafor",
+    "title": "Iran signals plans to challenge the US naval blockade",
+    "published": "2026-11-23",
+    "supports": "Araghchi says the June memorandum is no longer valid but could be a basis for a deal; Qatar's PM to meet Rubio."
+   },
    {
     "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
     "publisher": "Al Jazeera",
@@ -288,16 +337,30 @@
   "title": "Houthis launch near daily strikes on Saudi Arabia",
   "summary": [
    "Since 7 November the Houthis say they attack Saudi Arabia almost daily, hitting oil sites, airports and bases.",
-   "Saudi officials report shrapnel damage to an Aramco building in Riyadh and a fire on the East-West pipeline.",
-   "On 22 November the Saudi-led coalition said it shot down more Houthi drones, Anadolu reported."
+   "Saudi Arabia says it intercepted a Houthi missile and drone over the weekend of 21 to 22 November.",
+   "The Houthis say Saudi strikes on Hodeida killed 17 people by 23 November."
   ],
   "why_it_matters": "Saudi oil exports and Red Sea shipping are exposed while the Strait of Hormuz is already disrupted.",
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "started": "2026-07",
   "status": "escalating",
   "verified": false,
-  "verify_note": "The 22 November intercepts rest on one Anadolu report (22 November). Near daily attacks since 7 November are reported by Al Jazeera and the Long War Journal, run by the FDD think tank. Saudi Arabia reports only shrapnel damage to an Aramco building and a pipeline fire.",
+  "verify_note": "The Hodeida toll rests on Houthi statements reported by CBS (23 November). Near daily Houthi attacks are reported by Al Jazeera and the Long War Journal, run by the FDD think tank. Saudi officials report shrapnel damage to an Aramco building and a pipeline fire.",
   "sources": [
+   {
+    "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+    "publisher": "CBS News",
+    "title": "Live Updates: Iran says it will use all means to end U.S. blockade as Trump plays down escalating attacks",
+    "published": "2026-11-23",
+    "supports": "Iran's navy says three tankers hit mines; Rubio met Qatar's PM; new Treasury sanctions; Saudi strikes on Hodeida."
+   },
+   {
+    "url": "https://www.semafor.com/article/11/23/2026/iran-signals-plans-to-challenge-the-us-naval-blockade",
+    "publisher": "Semafor",
+    "title": "Iran signals plans to challenge the US naval blockade",
+    "published": "2026-11-23",
+    "supports": "Araghchi says the June memorandum is no longer valid but could be a basis for a deal; Qatar's PM to meet Rubio."
+   },
    {
     "url": "https://www.anews.com.tr/middle-east/2026/11/22/saudi-led-coalition-intercepts-houthi-drone-targeting-southern-saudi-arabia",
     "publisher": "Anadolu Agency (via A News)",
@@ -437,7 +500,7 @@
     "publisher": "964media",
     "title": "Jurf al-Sakhar could bring Iraq's arms deadline forward, spokesperson says",
     "published": "2026-11-22",
-    "supports": "Forces began entering on 21 November under a Federal Police led command; three Kataib Hezbollah brigades are being replaced; fighters remained on one side on 21 November."
+    "supports": "Forces began entering on 20 November under a Federal Police led command; three Kataib Hezbollah brigades are being replaced; fighters remained on one side on 21 November."
    },
    {
     "url": "https://www.turkiyetoday.com/region/iraqi-forces-to-enter-kataib-hezbollah-stronghold-in-jurf-al-nasr-on-nov-20-3232776",
@@ -506,19 +569,40 @@
   "id": "russia-ukraine-war",
   "hotspot": "Russia and Ukraine",
   "region": "Europe",
-  "title": "Ukraine cripples Kerch bridge; Russia launches huge retaliation",
+  "title": "Ukraine strikes Russian ships abroad; Russia warns of consequences",
   "summary": [
-   "Ukraine hit the Kerch bridge on 16 to 19 November. Reuters verified images of a destroyed road section.",
-   "Zelensky says Russia fired over 400 drones and 110 missiles on 20 November, killing at least eight civilians.",
-   "A Berlin summit on 19 November prepared a four-way next round including Europe. Land talks have no breakthrough."
+   "Zelensky says Ukraine sank the Russian corvette Merkury at Benghazi, Libya, on 22 November.",
+   "Russia warns of painful consequences. Libya's eastern government complained to the UN.",
+   "A Russian drone hit a building in Dymer near Kyiv on 22 November, killing 11."
   ],
-  "why_it_matters": "Damage to the Crimea bridge makes supplying Crimea harder for Russia, Reuters says, while talks stay stuck on territory.",
-  "date": "2026-11-21",
+  "why_it_matters": "Strikes on Russian ships far from Ukraine widen the war's reach, while talks stay stuck on territory.",
+  "date": "2026-11-23",
   "started": "2022-02",
   "status": "escalating",
   "verified": true,
-  "verify_note": "Bridge damage claims come from officials on both sides; Reuters verified images of the road span. Russia says no one was hurt in the latest bridge attack; Crimea's Russian-installed governor says two died. Missile and drone counts are Zelensky's.",
+  "verify_note": "The sinking is claimed by Zelensky; Russia has not confirmed the loss. The Dymer toll comes from Kyiv regional officials via the Kyiv Independent.",
   "sources": [
+   {
+    "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks",
+    "publisher": "Al Jazeera",
+    "title": "Russia warns Ukraine of 'dangerous trend' after Libya and Baltic attacks",
+    "published": "2026-11-23",
+    "supports": "Zelensky says Ukraine sank the corvette Merkury at Benghazi; Russia warns of painful consequences."
+   },
+   {
+    "url": "https://kyivindependent.com/no-safe-routes-ukraine-sinks-russian-corvette-in-drone-attack-off-libyan-coast/",
+    "publisher": "Kyiv Independent",
+    "title": "'No safe routes' - Russian corvette off Libyan coast sinks after 'exemplary' Ukrainian naval drone attack",
+    "published": "2026-11-23",
+    "supports": "Russian corvette sank off Libya after a Ukrainian naval drone attack."
+   },
+   {
+    "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
+    "publisher": "Kyiv Independent",
+    "title": "'We live in fear' - Russian attack near Kyiv kills 11, leaves families waiting as rescuers search rubble",
+    "published": "2026-11-23",
+    "supports": "A Russian drone hit a residential building in Dymer on 22 November, killing 11."
+   },
    {
     "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
     "publisher": "Al Jazeera",
